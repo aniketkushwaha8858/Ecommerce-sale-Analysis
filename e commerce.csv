@@ -1,0 +1,1000 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,Category,Product,Quantity,Price,Payment_Mode,Order_Status,City,Total_Amount
+500001,00:00.0,43004,Customer_43004,Female,57,Fashion,Headphones,3,25651,Debit Card,Delivered,Pune,76953
+500002,08:45.6,22173,Customer_22173,Male,28,Electronics,Shoes,1,32513,Debit Card,Delivered,Bangalore,32513
+500003,17:31.2,15193,Customer_15193,Female,63,Sports,Lipstick,1,37657,Debit Card,Cancelled,Hyderabad,37657
+500004,26:16.8,42512,Customer_42512,Male,20,Home & Kitchen,T-Shirt,1,9642,UPI,Cancelled,Chennai,9642
+500005,35:02.4,17814,Customer_17814,Male,31,Fashion,Mixer,2,41016,UPI,Cancelled,Pune,82032
+500006,43:48.0,31441,Customer_31441,Male,37,Beauty,Shoes,2,12943,Net Banking,Delivered,Bangalore,25886
+500007,52:33.6,42913,Customer_42913,Female,30,Home & Kitchen,Headphones,3,47328,UPI,Delivered,Bangalore,141984
+500008,01:19.2,30610,Customer_30610,Female,48,Fashion,Laptop,2,49482,Credit Card,Delivered,Chennai,98964
+500009,10:04.8,17752,Customer_17752,Male,61,Beauty,T-Shirt,3,8360,UPI,Delivered,Mumbai,25080
+500010,18:50.4,41229,Customer_41229,Female,62,Sports,Headphones,1,15265,Credit Card,Delivered,Gurgaon,15265
+500011,27:36.0,46231,Customer_46231,Male,47,Electronics,Laptop,4,2675,UPI,Cancelled,Mumbai,10700
+500012,36:21.6,42026,Customer_42026,Male,60,Home & Kitchen,Laptop,2,44300,UPI,Delivered,Pune,88600
+500013,45:07.3,31759,Customer_31759,Male,23,Sports,Shoes,4,24648,Net Banking,Delivered,Pune,98592
+500014,53:52.9,45731,Customer_45731,Male,27,Sports,Watch,3,20365,Debit Card,Delivered,Bangalore,61095
+500015,02:38.5,18445,Customer_18445,Male,30,Fashion,Watch,4,3915,Net Banking,Returned,Delhi,15660
+500016,11:24.1,29947,Customer_29947,Male,61,Fashion,Shoes,2,13570,UPI,Cancelled,Noida,27140
+500017,20:09.7,47533,Customer_47533,Female,23,Fashion,Mixer,4,32250,Credit Card,Delivered,Noida,129000
+500018,28:55.3,32927,Customer_32927,Female,49,Beauty,T-Shirt,2,20893,Debit Card,Delivered,Pune,41786
+500019,37:40.9,37205,Customer_37205,Male,31,Electronics,Laptop,3,61600,Cash on Delivery,Delivered,Delhi,184800
+500020,46:26.5,41960,Customer_41960,Female,47,Beauty,T-Shirt,4,14820,UPI,Delivered,Mumbai,59280
+500021,55:12.1,34536,Customer_34536,Male,63,Sports,Shoes,4,54633,Net Banking,Delivered,Hyderabad,218532
+500022,03:57.7,29434,Customer_29434,Female,49,Fashion,Shoes,1,64920,Net Banking,Delivered,Chennai,64920
+500023,12:43.3,27138,Customer_27138,Female,48,Home & Kitchen,Shoes,2,21370,Net Banking,Delivered,Chennai,42740
+500024,21:28.9,36104,Customer_36104,Male,44,Home & Kitchen,Lipstick,2,12982,Debit Card,Returned,Bangalore,25964
+500025,30:14.5,43879,Customer_43879,Male,39,Electronics,Mixer,4,58028,Debit Card,Delivered,Mumbai,232112
+500026,39:00.1,49054,Customer_49054,Male,48,Beauty,Headphones,3,17177,Credit Card,Delivered,Chennai,51531
+500027,47:45.7,43800,Customer_43800,Female,55,Beauty,Mobile,4,30269,Net Banking,Delivered,Chennai,121076
+500028,56:31.3,47184,Customer_47184,Female,49,Home & Kitchen,Laptop,3,1879,Net Banking,Delivered,Hyderabad,5637
+500029,05:16.9,13607,Customer_13607,Female,30,Fashion,Mixer,2,40863,Cash on Delivery,Cancelled,Delhi,81726
+500030,14:02.5,12562,Customer_12562,Female,25,Sports,Watch,2,19376,Debit Card,Delivered,Bangalore,38752
+500031,22:48.1,39961,Customer_39961,Male,24,Fashion,Lipstick,1,29143,Net Banking,Delivered,Hyderabad,29143
+500032,31:33.7,42398,Customer_42398,Female,58,Sports,Mobile,2,21529,Cash on Delivery,Delivered,Pune,43058
+500033,40:19.3,49540,Customer_49540,Male,63,Home & Kitchen,Mobile,3,38606,Cash on Delivery,Delivered,Mumbai,115818
+500034,49:04.9,10432,Customer_10432,Female,57,Sports,Headphones,4,62923,UPI,Returned,Hyderabad,251692
+500035,57:50.5,46843,Customer_46843,Male,59,Beauty,Mixer,2,26915,Cash on Delivery,Delivered,Bangalore,53830
+500036,06:36.2,26927,Customer_26927,Male,50,Home & Kitchen,Shoes,4,29651,UPI,Delivered,Chennai,118604
+500037,15:21.8,19288,Customer_19288,Female,56,Home & Kitchen,T-Shirt,1,7170,Net Banking,Cancelled,Hyderabad,7170
+500038,24:07.4,44247,Customer_44247,Male,60,Home & Kitchen,Lipstick,2,8476,Net Banking,Delivered,Pune,16952
+500039,32:53.0,26278,Customer_26278,Male,31,Electronics,Shoes,4,7536,Credit Card,Cancelled,Gurgaon,30144
+500040,41:38.6,44106,Customer_44106,Female,23,Beauty,Mixer,1,43557,Cash on Delivery,Returned,Noida,43557
+500041,50:24.2,21033,Customer_21033,Male,56,Sports,Mobile,3,23035,Net Banking,Delivered,Pune,69105
+500042,59:09.8,44381,Customer_44381,Female,34,Home & Kitchen,Mixer,4,38944,Cash on Delivery,Delivered,Pune,155776
+500043,07:55.4,29483,Customer_29483,Female,54,Home & Kitchen,Mobile,2,18137,Debit Card,Returned,Bangalore,36274
+500044,16:41.0,11845,Customer_11845,Female,45,Fashion,Mixer,2,64744,Debit Card,Delivered,Chennai,129488
+500045,25:26.6,19553,Customer_19553,Male,39,Sports,Mobile,1,40417,Credit Card,Returned,Noida,40417
+500046,34:12.2,45438,Customer_45438,Female,19,Fashion,Mixer,1,11694,Debit Card,Returned,Gurgaon,11694
+500047,42:57.8,39556,Customer_39556,Female,54,Beauty,T-Shirt,2,37787,Credit Card,Delivered,Mumbai,75574
+500048,51:43.4,39994,Customer_39994,Female,38,Beauty,Headphones,1,58371,Credit Card,Returned,Chennai,58371
+500049,00:29.0,38115,Customer_38115,Female,43,Electronics,Laptop,1,61534,UPI,Delivered,Noida,61534
+500050,09:14.6,10016,Customer_10016,Male,23,Beauty,Laptop,4,46394,Debit Card,Delivered,Delhi,185576
+500051,18:00.2,37713,Customer_37713,Female,39,Home & Kitchen,Headphones,4,64508,Cash on Delivery,Delivered,Bangalore,258032
+500052,26:45.8,22314,Customer_22314,Male,19,Beauty,Laptop,4,45326,Credit Card,Delivered,Gurgaon,181304
+500053,35:31.4,21632,Customer_21632,Male,39,Sports,T-Shirt,3,36364,Net Banking,Delivered,Noida,109092
+500054,44:17.0,23784,Customer_23784,Female,58,Electronics,Shoes,1,852,Debit Card,Returned,Hyderabad,852
+500055,53:02.6,20120,Customer_20120,Female,21,Fashion,Headphones,1,12727,Cash on Delivery,Delivered,Mumbai,12727
+500056,01:48.2,11307,Customer_11307,Female,32,Beauty,Shoes,2,17031,Debit Card,Cancelled,Chennai,34062
+500057,10:33.8,19833,Customer_19833,Male,26,Fashion,Laptop,1,55781,Cash on Delivery,Delivered,Hyderabad,55781
+500058,19:19.4,11047,Customer_11047,Female,25,Beauty,Mobile,1,36974,Credit Card,Delivered,Chennai,36974
+500059,28:05.1,29432,Customer_29432,Female,47,Beauty,Watch,1,13143,Cash on Delivery,Delivered,Pune,13143
+500060,36:50.7,27535,Customer_27535,Female,22,Electronics,Lipstick,2,68654,Debit Card,Delivered,Chennai,137308
+500061,45:36.3,46197,Customer_46197,Female,59,Beauty,Shoes,1,33290,Net Banking,Cancelled,Pune,33290
+500062,54:21.9,26540,Customer_26540,Male,39,Fashion,Watch,1,48036,UPI,Delivered,Pune,48036
+500063,03:07.5,25270,Customer_25270,Male,35,Beauty,Laptop,1,50372,Cash on Delivery,Delivered,Delhi,50372
+500064,11:53.1,30794,Customer_30794,Male,48,Home & Kitchen,Watch,3,27443,Net Banking,Delivered,Chennai,82329
+500065,20:38.7,20836,Customer_20836,Male,41,Sports,Mobile,2,60217,UPI,Cancelled,Gurgaon,120434
+500066,29:24.3,37815,Customer_37815,Female,56,Sports,Watch,3,41313,Credit Card,Delivered,Delhi,123939
+500067,38:09.9,27033,Customer_27033,Male,35,Sports,Headphones,1,58182,Credit Card,Delivered,Gurgaon,58182
+500068,46:55.5,19505,Customer_19505,Male,50,Electronics,Headphones,3,26985,Debit Card,Delivered,Noida,80955
+500069,55:41.1,44448,Customer_44448,Female,20,Beauty,Laptop,1,3756,Debit Card,Delivered,Pune,3756
+500070,04:26.7,20992,Customer_20992,Male,55,Sports,Laptop,1,20998,Net Banking,Returned,Chennai,20998
+500071,13:12.3,34346,Customer_34346,Male,39,Home & Kitchen,Mobile,2,66225,Credit Card,Cancelled,Bangalore,132450
+500072,21:57.9,14040,Customer_14040,Female,48,Beauty,Laptop,2,16751,Net Banking,Cancelled,Bangalore,33502
+500073,30:43.5,10244,Customer_10244,Male,22,Beauty,Mixer,3,60983,Credit Card,Delivered,Pune,182949
+500074,39:29.1,44141,Customer_44141,Male,61,Sports,Headphones,3,8294,Cash on Delivery,Delivered,Delhi,24882
+500075,48:14.7,43983,Customer_43983,Male,26,Fashion,Watch,3,44356,Cash on Delivery,Delivered,Chennai,133068
+500076,57:00.3,33855,Customer_33855,Female,37,Home & Kitchen,Watch,4,10110,UPI,Delivered,Hyderabad,40440
+500077,05:45.9,48617,Customer_48617,Male,45,Electronics,Headphones,2,65122,Net Banking,Returned,Mumbai,130244
+500078,14:31.5,15272,Customer_15272,Male,40,Home & Kitchen,Watch,2,4607,Debit Card,Delivered,Chennai,9214
+500079,23:17.1,47560,Customer_47560,Female,28,Electronics,Lipstick,3,41068,Credit Card,Delivered,Pune,123204
+500080,32:02.7,19538,Customer_19538,Male,24,Fashion,Lipstick,4,52534,Cash on Delivery,Cancelled,Gurgaon,210136
+500081,40:48.3,23682,Customer_23682,Female,38,Electronics,Shoes,3,17596,UPI,Returned,Chennai,52788
+500082,49:34.0,20062,Customer_20062,Female,58,Electronics,Headphones,2,53207,Cash on Delivery,Delivered,Bangalore,106414
+500083,58:19.6,43230,Customer_43230,Female,50,Fashion,Lipstick,4,25406,Net Banking,Delivered,Hyderabad,101624
+500084,07:05.2,39237,Customer_39237,Male,63,Fashion,Headphones,2,24941,UPI,Returned,Bangalore,49882
+500085,15:50.8,14060,Customer_14060,Male,32,Sports,T-Shirt,2,5031,Credit Card,Delivered,Hyderabad,10062
+500086,24:36.4,40870,Customer_40870,Male,59,Home & Kitchen,Headphones,4,14100,UPI,Delivered,Gurgaon,56400
+500087,33:22.0,43484,Customer_43484,Female,31,Home & Kitchen,Lipstick,4,29806,Net Banking,Returned,Noida,119224
+500088,42:07.6,32792,Customer_32792,Male,20,Home & Kitchen,T-Shirt,3,21683,Debit Card,Delivered,Pune,65049
+500089,50:53.2,16222,Customer_16222,Male,25,Sports,Headphones,2,40688,Net Banking,Delivered,Delhi,81376
+500090,59:38.8,45529,Customer_45529,Female,43,Electronics,Mixer,3,32523,Credit Card,Delivered,Gurgaon,97569
+500091,08:24.4,11068,Customer_11068,Female,41,Fashion,Headphones,4,1541,UPI,Delivered,Mumbai,6164
+500092,17:10.0,22821,Customer_22821,Male,45,Electronics,Mixer,2,30221,Debit Card,Delivered,Gurgaon,60442
+500093,25:55.6,34095,Customer_34095,Male,39,Electronics,Lipstick,2,52377,Credit Card,Delivered,Hyderabad,104754
+500094,34:41.2,19765,Customer_19765,Male,34,Fashion,Mobile,2,67821,Net Banking,Returned,Bangalore,135642
+500095,43:26.8,23160,Customer_23160,Female,34,Fashion,Watch,3,44645,Cash on Delivery,Returned,Chennai,133935
+500096,52:12.4,13886,Customer_13886,Male,43,Home & Kitchen,Headphones,4,55153,UPI,Returned,Noida,220612
+500097,00:58.0,23253,Customer_23253,Female,27,Electronics,Lipstick,4,26556,Net Banking,Delivered,Hyderabad,106224
+500098,09:43.6,49482,Customer_49482,Male,49,Beauty,Mobile,3,69360,UPI,Delivered,Noida,208080
+500099,18:29.2,22017,Customer_22017,Female,38,Beauty,Mobile,2,50878,Debit Card,Delivered,Mumbai,101756
+500100,27:14.8,24547,Customer_24547,Male,18,Home & Kitchen,Lipstick,4,13268,Cash on Delivery,Delivered,Noida,53072
+500101,36:00.4,26481,Customer_26481,Female,28,Beauty,Mixer,1,39254,Credit Card,Delivered,Mumbai,39254
+500102,44:46.0,10270,Customer_10270,Male,37,Electronics,Headphones,3,11987,Debit Card,Delivered,Hyderabad,35961
+500103,53:31.6,21275,Customer_21275,Female,34,Sports,Mobile,4,10368,UPI,Delivered,Noida,41472
+500104,02:17.3,32808,Customer_32808,Male,63,Home & Kitchen,T-Shirt,4,23444,Credit Card,Delivered,Hyderabad,93776
+500105,11:02.9,26253,Customer_26253,Female,55,Electronics,Watch,3,15914,Cash on Delivery,Delivered,Hyderabad,47742
+500106,19:48.5,36315,Customer_36315,Male,37,Electronics,Laptop,4,14311,UPI,Returned,Hyderabad,57244
+500107,28:34.1,25837,Customer_25837,Female,43,Sports,Watch,2,62950,UPI,Delivered,Bangalore,125900
+500108,37:19.7,35183,Customer_35183,Female,24,Sports,Mobile,2,48140,Cash on Delivery,Delivered,Delhi,96280
+500109,46:05.3,29795,Customer_29795,Male,45,Fashion,Headphones,2,64485,Cash on Delivery,Cancelled,Bangalore,128970
+500110,54:50.9,14980,Customer_14980,Male,41,Beauty,Laptop,3,940,Credit Card,Delivered,Noida,2820
+500111,03:36.5,39538,Customer_39538,Female,19,Electronics,Headphones,4,39844,Debit Card,Delivered,Gurgaon,159376
+500112,12:22.1,12179,Customer_12179,Male,40,Beauty,Lipstick,4,48428,Net Banking,Cancelled,Noida,193712
+500113,21:07.7,38939,Customer_38939,Female,56,Beauty,Shoes,3,17953,UPI,Delivered,Chennai,53859
+500114,29:53.3,32369,Customer_32369,Female,38,Sports,T-Shirt,2,47322,UPI,Returned,Chennai,94644
+500115,38:38.9,24826,Customer_24826,Male,26,Beauty,Headphones,3,36907,Net Banking,Delivered,Hyderabad,110721
+500116,47:24.5,26360,Customer_26360,Male,52,Beauty,Shoes,1,21765,Credit Card,Cancelled,Hyderabad,21765
+500117,56:10.1,17184,Customer_17184,Male,63,Sports,T-Shirt,4,60585,Net Banking,Delivered,Gurgaon,242340
+500118,04:55.7,25238,Customer_25238,Female,46,Beauty,T-Shirt,1,29785,UPI,Delivered,Delhi,29785
+500119,13:41.3,23714,Customer_23714,Male,29,Beauty,T-Shirt,3,48702,Credit Card,Delivered,Gurgaon,146106
+500120,22:26.9,36795,Customer_36795,Female,26,Beauty,Headphones,3,30607,Cash on Delivery,Returned,Gurgaon,91821
+500121,31:12.5,10021,Customer_10021,Female,38,Home & Kitchen,Lipstick,3,8825,UPI,Delivered,Chennai,26475
+500122,39:58.1,33159,Customer_33159,Male,52,Fashion,Shoes,3,16971,Credit Card,Delivered,Noida,50913
+500123,48:43.7,28353,Customer_28353,Male,35,Sports,Lipstick,2,13297,Credit Card,Cancelled,Hyderabad,26594
+500124,57:29.3,32807,Customer_32807,Female,34,Fashion,Headphones,4,48802,Debit Card,Delivered,Delhi,195208
+500125,06:14.9,16630,Customer_16630,Male,54,Electronics,T-Shirt,2,30270,Credit Card,Delivered,Bangalore,60540
+500126,15:00.5,12034,Customer_12034,Female,42,Beauty,T-Shirt,3,28843,Credit Card,Delivered,Hyderabad,86529
+500127,23:46.2,32198,Customer_32198,Female,56,Home & Kitchen,Laptop,3,9383,Debit Card,Delivered,Hyderabad,28149
+500128,32:31.8,44645,Customer_44645,Female,25,Sports,Lipstick,1,19379,Cash on Delivery,Delivered,Delhi,19379
+500129,41:17.4,13083,Customer_13083,Female,45,Fashion,Lipstick,3,30206,Cash on Delivery,Delivered,Chennai,90618
+500130,50:03.0,26568,Customer_26568,Male,21,Sports,Lipstick,3,50971,Net Banking,Delivered,Gurgaon,152913
+500131,58:48.6,49230,Customer_49230,Female,55,Sports,Laptop,3,64779,Cash on Delivery,Delivered,Hyderabad,194337
+500132,07:34.2,46072,Customer_46072,Male,55,Beauty,Lipstick,3,9231,Credit Card,Returned,Bangalore,27693
+500133,16:19.8,43274,Customer_43274,Female,22,Electronics,Mixer,2,67323,UPI,Delivered,Mumbai,134646
+500134,25:05.4,18148,Customer_18148,Male,51,Sports,Mobile,1,16160,Net Banking,Delivered,Chennai,16160
+500135,33:51.0,31530,Customer_31530,Male,60,Home & Kitchen,Mixer,2,4372,Net Banking,Delivered,Gurgaon,8744
+500136,42:36.6,47775,Customer_47775,Female,56,Electronics,Laptop,2,46891,Debit Card,Delivered,Mumbai,93782
+500137,51:22.2,12190,Customer_12190,Male,61,Sports,Laptop,2,10463,Net Banking,Delivered,Hyderabad,20926
+500138,00:07.8,17797,Customer_17797,Female,46,Home & Kitchen,Headphones,1,56374,UPI,Returned,Noida,56374
+500139,08:53.4,35388,Customer_35388,Female,49,Electronics,Lipstick,3,48719,UPI,Delivered,Delhi,146157
+500140,17:39.0,13719,Customer_13719,Female,46,Fashion,Mixer,3,61223,UPI,Delivered,Noida,183669
+500141,26:24.6,11742,Customer_11742,Female,40,Home & Kitchen,Mobile,3,15041,Cash on Delivery,Returned,Mumbai,45123
+500142,35:10.2,43465,Customer_43465,Female,63,Beauty,Mobile,2,28281,Debit Card,Delivered,Delhi,56562
+500143,43:55.8,11980,Customer_11980,Female,36,Fashion,Watch,4,57853,UPI,Delivered,Bangalore,231412
+500144,52:41.4,32041,Customer_32041,Female,45,Home & Kitchen,Headphones,3,6056,Credit Card,Delivered,Hyderabad,18168
+500145,01:27.0,23308,Customer_23308,Female,57,Sports,Mobile,2,40231,Cash on Delivery,Delivered,Delhi,80462
+500146,10:12.6,41882,Customer_41882,Male,58,Electronics,T-Shirt,1,53057,Credit Card,Delivered,Pune,53057
+500147,18:58.2,18643,Customer_18643,Female,44,Beauty,Mobile,3,46300,Net Banking,Delivered,Bangalore,138900
+500148,27:43.8,24536,Customer_24536,Male,62,Beauty,Mobile,1,41467,Cash on Delivery,Delivered,Mumbai,41467
+500149,36:29.4,38470,Customer_38470,Female,63,Sports,Lipstick,3,22918,UPI,Delivered,Hyderabad,68754
+500150,45:15.1,29193,Customer_29193,Female,33,Fashion,Shoes,3,24171,Credit Card,Cancelled,Pune,72513
+500151,54:00.7,16166,Customer_16166,Female,30,Beauty,T-Shirt,2,66458,UPI,Delivered,Hyderabad,132916
+500152,02:46.3,45036,Customer_45036,Female,34,Sports,Headphones,1,43398,Cash on Delivery,Delivered,Noida,43398
+500153,11:31.9,36994,Customer_36994,Male,21,Home & Kitchen,Shoes,1,33329,Debit Card,Delivered,Bangalore,33329
+500154,20:17.5,44254,Customer_44254,Male,49,Electronics,Lipstick,3,36380,UPI,Delivered,Noida,109140
+500155,29:03.1,15583,Customer_15583,Male,40,Electronics,Lipstick,4,31352,Debit Card,Delivered,Bangalore,125408
+500156,37:48.7,32062,Customer_32062,Female,58,Sports,Headphones,4,65798,Debit Card,Delivered,Delhi,263192
+500157,46:34.3,48123,Customer_48123,Male,39,Beauty,Shoes,2,49179,Cash on Delivery,Delivered,Hyderabad,98358
+500158,55:19.9,25918,Customer_25918,Male,19,Fashion,Shoes,2,9263,UPI,Delivered,Mumbai,18526
+500159,04:05.5,30932,Customer_30932,Male,49,Electronics,Laptop,3,38696,Cash on Delivery,Delivered,Hyderabad,116088
+500160,12:51.1,37971,Customer_37971,Male,38,Electronics,Mobile,1,348,Credit Card,Delivered,Mumbai,348
+500161,21:36.7,25311,Customer_25311,Male,61,Sports,Mixer,3,14018,Net Banking,Delivered,Gurgaon,42054
+500162,30:22.3,14510,Customer_14510,Male,20,Electronics,Shoes,3,21776,Cash on Delivery,Delivered,Chennai,65328
+500163,39:07.9,38736,Customer_38736,Female,36,Fashion,Watch,3,13471,Cash on Delivery,Cancelled,Chennai,40413
+500164,47:53.5,27228,Customer_27228,Male,24,Home & Kitchen,T-Shirt,4,57724,Credit Card,Delivered,Hyderabad,230896
+500165,56:39.1,23238,Customer_23238,Male,19,Fashion,Mixer,3,55871,Credit Card,Delivered,Noida,167613
+500166,05:24.7,39218,Customer_39218,Male,31,Sports,Headphones,4,36142,Credit Card,Delivered,Gurgaon,144568
+500167,14:10.3,20883,Customer_20883,Male,57,Beauty,T-Shirt,3,37101,Cash on Delivery,Returned,Bangalore,111303
+500168,22:55.9,15169,Customer_15169,Female,23,Fashion,Laptop,2,11981,Cash on Delivery,Delivered,Delhi,23962
+500169,31:41.5,33841,Customer_33841,Male,51,Home & Kitchen,Headphones,4,39009,Net Banking,Delivered,Noida,156036
+500170,40:27.1,18446,Customer_18446,Male,23,Fashion,Watch,3,5699,Debit Card,Delivered,Mumbai,17097
+500171,49:12.7,40776,Customer_40776,Male,44,Sports,T-Shirt,3,62231,Credit Card,Delivered,Pune,186693
+500172,57:58.3,22511,Customer_22511,Male,41,Beauty,Mixer,3,64117,Debit Card,Delivered,Mumbai,192351
+500173,06:44.0,33883,Customer_33883,Male,25,Beauty,Headphones,3,30256,Credit Card,Cancelled,Gurgaon,90768
+500174,15:29.6,38169,Customer_38169,Female,47,Fashion,Mixer,3,5378,Debit Card,Cancelled,Gurgaon,16134
+500175,24:15.2,15717,Customer_15717,Male,24,Beauty,Lipstick,4,65324,Debit Card,Delivered,Delhi,261296
+500176,33:00.8,39235,Customer_39235,Female,26,Sports,Shoes,2,56179,Debit Card,Delivered,Pune,112358
+500177,41:46.4,26976,Customer_26976,Female,30,Electronics,Mixer,3,23574,Cash on Delivery,Delivered,Delhi,70722
+500178,50:32.0,48100,Customer_48100,Female,42,Home & Kitchen,T-Shirt,4,9032,Net Banking,Delivered,Delhi,36128
+500179,59:17.6,19330,Customer_19330,Male,48,Beauty,Laptop,2,60303,Credit Card,Delivered,Mumbai,120606
+500180,08:03.2,37627,Customer_37627,Female,51,Electronics,Mobile,4,38698,Credit Card,Delivered,Mumbai,154792
+500181,16:48.8,33317,Customer_33317,Male,46,Home & Kitchen,Mobile,2,61595,UPI,Delivered,Gurgaon,123190
+500182,25:34.4,12093,Customer_12093,Female,58,Fashion,Headphones,1,38707,Credit Card,Delivered,Delhi,38707
+500183,34:20.0,19488,Customer_19488,Male,59,Sports,T-Shirt,2,2848,Credit Card,Delivered,Bangalore,5696
+500184,43:05.6,11695,Customer_11695,Male,53,Electronics,Laptop,3,27309,Cash on Delivery,Cancelled,Delhi,81927
+500185,51:51.2,37535,Customer_37535,Male,20,Fashion,Headphones,1,4201,Net Banking,Delivered,Noida,4201
+500186,00:36.8,40196,Customer_40196,Female,58,Sports,Laptop,3,63720,Debit Card,Delivered,Bangalore,191160
+500187,09:22.4,34340,Customer_34340,Female,62,Electronics,Headphones,4,1388,Debit Card,Delivered,Chennai,5552
+500188,18:08.0,36860,Customer_36860,Female,31,Fashion,Mobile,2,44541,Net Banking,Delivered,Gurgaon,89082
+500189,26:53.6,25076,Customer_25076,Male,23,Beauty,Shoes,4,7997,Credit Card,Delivered,Hyderabad,31988
+500190,35:39.2,27263,Customer_27263,Male,44,Sports,Mixer,3,55706,Debit Card,Delivered,Delhi,167118
+500191,44:24.8,30212,Customer_30212,Male,57,Sports,Laptop,2,2473,Net Banking,Delivered,Hyderabad,4946
+500192,53:10.4,37365,Customer_37365,Male,43,Fashion,Watch,4,64744,Debit Card,Delivered,Bangalore,258976
+500193,01:56.0,36401,Customer_36401,Male,43,Home & Kitchen,Watch,4,40871,Net Banking,Delivered,Bangalore,163484
+500194,10:41.6,16036,Customer_16036,Female,31,Sports,Mixer,2,37196,Cash on Delivery,Returned,Mumbai,74392
+500195,19:27.3,12500,Customer_12500,Female,18,Electronics,Laptop,2,36524,Credit Card,Cancelled,Gurgaon,73048
+500196,28:12.9,41513,Customer_41513,Male,62,Beauty,Mobile,4,65530,Debit Card,Delivered,Chennai,262120
+500197,36:58.5,36854,Customer_36854,Female,43,Sports,T-Shirt,3,1655,Debit Card,Delivered,Noida,4965
+500198,45:44.1,17400,Customer_17400,Female,55,Sports,Mobile,3,57864,Debit Card,Delivered,Delhi,173592
+500199,54:29.7,23190,Customer_23190,Male,41,Home & Kitchen,Laptop,3,64509,Debit Card,Delivered,Gurgaon,193527
+500200,03:15.3,36704,Customer_36704,Female,30,Fashion,Headphones,4,61699,Cash on Delivery,Delivered,Pune,246796
+500201,12:00.9,26242,Customer_26242,Female,30,Fashion,Lipstick,2,25400,UPI,Delivered,Delhi,50800
+500202,20:46.5,35688,Customer_35688,Male,48,Electronics,T-Shirt,2,59974,Net Banking,Delivered,Hyderabad,119948
+500203,29:32.1,39379,Customer_39379,Male,38,Electronics,Mixer,4,16384,UPI,Delivered,Delhi,65536
+500204,38:17.7,21993,Customer_21993,Female,36,Beauty,T-Shirt,3,42504,UPI,Delivered,Bangalore,127512
+500205,47:03.3,36339,Customer_36339,Female,32,Electronics,Mixer,2,33598,Credit Card,Delivered,Chennai,67196
+500206,55:48.9,25549,Customer_25549,Female,18,Electronics,Lipstick,2,11697,Cash on Delivery,Returned,Delhi,23394
+500207,04:34.5,13573,Customer_13573,Female,29,Beauty,T-Shirt,3,59033,Net Banking,Delivered,Chennai,177099
+500208,13:20.1,27572,Customer_27572,Male,61,Home & Kitchen,Headphones,2,45247,Net Banking,Cancelled,Mumbai,90494
+500209,22:05.7,30946,Customer_30946,Female,27,Beauty,Laptop,1,30865,Net Banking,Delivered,Pune,30865
+500210,30:51.3,32173,Customer_32173,Female,33,Home & Kitchen,Watch,1,39285,UPI,Delivered,Hyderabad,39285
+500211,39:36.9,20922,Customer_20922,Male,46,Fashion,T-Shirt,3,29191,Cash on Delivery,Delivered,Bangalore,87573
+500212,48:22.5,49371,Customer_49371,Female,37,Sports,Headphones,3,59426,Debit Card,Delivered,Bangalore,178278
+500213,57:08.1,35927,Customer_35927,Male,31,Home & Kitchen,Lipstick,2,66662,Debit Card,Delivered,Delhi,133324
+500214,05:53.7,48554,Customer_48554,Male,59,Electronics,Mobile,2,22108,Debit Card,Delivered,Delhi,44216
+500215,14:39.3,29687,Customer_29687,Female,38,Home & Kitchen,Mobile,1,53564,Net Banking,Delivered,Delhi,53564
+500216,23:24.9,45057,Customer_45057,Male,24,Sports,Headphones,1,48994,Debit Card,Delivered,Delhi,48994
+500217,32:10.5,23361,Customer_23361,Male,58,Sports,Mobile,2,9640,Debit Card,Delivered,Gurgaon,19280
+500218,40:56.1,10691,Customer_10691,Male,21,Fashion,Mixer,4,38488,Credit Card,Delivered,Hyderabad,153952
+500219,49:41.8,16079,Customer_16079,Female,39,Fashion,Lipstick,2,11862,Cash on Delivery,Delivered,Pune,23724
+500220,58:27.4,35901,Customer_35901,Male,20,Fashion,Shoes,1,20816,Credit Card,Delivered,Mumbai,20816
+500221,07:13.0,11528,Customer_11528,Male,64,Home & Kitchen,Headphones,4,32785,UPI,Delivered,Pune,131140
+500222,15:58.6,24090,Customer_24090,Male,61,Beauty,Lipstick,2,63800,Credit Card,Delivered,Delhi,127600
+500223,24:44.2,14721,Customer_14721,Female,54,Sports,Shoes,3,32642,Credit Card,Delivered,Bangalore,97926
+500224,33:29.8,37357,Customer_37357,Female,24,Electronics,Mixer,2,68205,UPI,Delivered,Delhi,136410
+500225,42:15.4,47940,Customer_47940,Female,60,Electronics,T-Shirt,1,53978,Credit Card,Delivered,Mumbai,53978
+500226,51:01.0,28556,Customer_28556,Male,54,Beauty,Shoes,1,47698,Debit Card,Returned,Noida,47698
+500227,59:46.6,14421,Customer_14421,Female,56,Home & Kitchen,Shoes,4,51053,Debit Card,Delivered,Mumbai,204212
+500228,08:32.2,40104,Customer_40104,Female,38,Electronics,Mixer,2,19774,Debit Card,Delivered,Mumbai,39548
+500229,17:17.8,13606,Customer_13606,Female,30,Fashion,T-Shirt,3,4451,Debit Card,Cancelled,Bangalore,13353
+500230,26:03.4,13453,Customer_13453,Female,33,Fashion,Lipstick,1,6653,Cash on Delivery,Delivered,Gurgaon,6653
+500231,34:49.0,31636,Customer_31636,Male,22,Beauty,Laptop,3,56514,Cash on Delivery,Delivered,Pune,169542
+500232,43:34.6,41161,Customer_41161,Female,54,Electronics,T-Shirt,4,65669,Debit Card,Delivered,Pune,262676
+500233,52:20.2,20073,Customer_20073,Female,60,Fashion,T-Shirt,2,4306,UPI,Delivered,Bangalore,8612
+500234,01:05.8,22207,Customer_22207,Female,37,Sports,Lipstick,1,52937,Cash on Delivery,Delivered,Bangalore,52937
+500235,09:51.4,22855,Customer_22855,Male,20,Sports,Mixer,1,58999,Cash on Delivery,Delivered,Pune,58999
+500236,18:37.0,26528,Customer_26528,Female,20,Sports,Lipstick,2,10369,Net Banking,Returned,Pune,20738
+500237,27:22.6,21674,Customer_21674,Female,41,Beauty,Laptop,3,4215,Debit Card,Delivered,Noida,12645
+500238,36:08.2,40518,Customer_40518,Female,50,Sports,Lipstick,2,3522,Debit Card,Delivered,Delhi,7044
+500239,44:53.8,30986,Customer_30986,Female,32,Fashion,Shoes,4,59425,Cash on Delivery,Delivered,Gurgaon,237700
+500240,53:39.4,45771,Customer_45771,Male,31,Fashion,Watch,3,35494,Cash on Delivery,Delivered,Gurgaon,106482
+500241,02:25.1,17126,Customer_17126,Female,50,Fashion,Lipstick,1,52337,Cash on Delivery,Delivered,Chennai,52337
+500242,11:10.7,32255,Customer_32255,Male,59,Fashion,Shoes,1,37912,Debit Card,Delivered,Gurgaon,37912
+500243,19:56.3,16046,Customer_16046,Male,64,Beauty,Mobile,3,26317,Cash on Delivery,Delivered,Noida,78951
+500244,28:41.9,44349,Customer_44349,Male,37,Beauty,T-Shirt,4,413,UPI,Delivered,Chennai,1652
+500245,37:27.5,21302,Customer_21302,Female,23,Fashion,Laptop,1,1851,Credit Card,Delivered,Bangalore,1851
+500246,46:13.1,34727,Customer_34727,Male,29,Sports,Laptop,3,28598,Credit Card,Delivered,Pune,85794
+500247,54:58.7,24812,Customer_24812,Female,27,Electronics,Headphones,3,62859,Debit Card,Delivered,Mumbai,188577
+500248,03:44.3,28871,Customer_28871,Female,58,Sports,Laptop,4,30628,UPI,Delivered,Delhi,122512
+500249,12:29.9,17501,Customer_17501,Female,30,Home & Kitchen,Mixer,1,15197,Cash on Delivery,Returned,Chennai,15197
+500250,21:15.5,47241,Customer_47241,Male,24,Home & Kitchen,Mobile,4,43484,Net Banking,Delivered,Mumbai,173936
+500251,30:01.1,34475,Customer_34475,Male,20,Fashion,Mixer,3,34116,Net Banking,Delivered,Pune,102348
+500252,38:46.7,33496,Customer_33496,Male,25,Sports,Headphones,2,11680,Cash on Delivery,Delivered,Chennai,23360
+500253,47:32.3,47592,Customer_47592,Female,29,Sports,T-Shirt,2,21100,UPI,Cancelled,Hyderabad,42200
+500254,56:17.9,18616,Customer_18616,Female,56,Home & Kitchen,Mobile,2,7965,Cash on Delivery,Delivered,Mumbai,15930
+500255,05:03.5,45884,Customer_45884,Female,23,Electronics,Shoes,2,47079,Credit Card,Returned,Gurgaon,94158
+500256,13:49.1,48349,Customer_48349,Female,39,Electronics,Headphones,1,47116,Net Banking,Delivered,Mumbai,47116
+500257,22:34.7,14979,Customer_14979,Female,46,Home & Kitchen,Mobile,1,12166,Credit Card,Delivered,Noida,12166
+500258,31:20.3,18999,Customer_18999,Female,50,Sports,Laptop,3,28188,Net Banking,Returned,Noida,84564
+500259,40:05.9,21518,Customer_21518,Female,33,Home & Kitchen,Watch,2,9657,Net Banking,Delivered,Hyderabad,19314
+500260,48:51.5,20658,Customer_20658,Female,48,Electronics,Headphones,4,6535,Net Banking,Cancelled,Chennai,26140
+500261,57:37.1,28604,Customer_28604,Male,26,Home & Kitchen,Watch,4,30730,Net Banking,Delivered,Hyderabad,122920
+500262,06:22.7,40107,Customer_40107,Male,60,Fashion,Mobile,1,9058,Credit Card,Delivered,Mumbai,9058
+500263,15:08.3,22985,Customer_22985,Female,37,Electronics,Watch,3,65902,UPI,Delivered,Gurgaon,197706
+500264,23:54.0,17754,Customer_17754,Male,48,Beauty,Watch,1,42452,Cash on Delivery,Delivered,Noida,42452
+500265,32:39.6,48197,Customer_48197,Female,31,Fashion,Mobile,4,18312,Cash on Delivery,Delivered,Chennai,73248
+500266,41:25.2,10602,Customer_10602,Male,24,Home & Kitchen,Mobile,1,69721,UPI,Returned,Noida,69721
+500267,50:10.8,47404,Customer_47404,Male,19,Sports,Laptop,4,5860,Credit Card,Returned,Bangalore,23440
+500268,58:56.4,14065,Customer_14065,Female,24,Beauty,Shoes,3,58758,Credit Card,Delivered,Hyderabad,176274
+500269,07:42.0,18735,Customer_18735,Male,35,Beauty,Lipstick,3,44684,Credit Card,Cancelled,Gurgaon,134052
+500270,16:27.6,25208,Customer_25208,Female,61,Beauty,Mobile,3,14594,Debit Card,Returned,Bangalore,43782
+500271,25:13.2,43857,Customer_43857,Male,64,Home & Kitchen,Headphones,2,47652,Cash on Delivery,Delivered,Pune,95304
+500272,33:58.8,27559,Customer_27559,Male,29,Fashion,Laptop,3,43578,Net Banking,Delivered,Chennai,130734
+500273,42:44.4,34647,Customer_34647,Male,19,Beauty,Watch,1,66401,UPI,Delivered,Hyderabad,66401
+500274,51:30.0,35229,Customer_35229,Female,20,Fashion,Mixer,4,11192,UPI,Returned,Gurgaon,44768
+500275,00:15.6,33848,Customer_33848,Male,21,Electronics,Mixer,2,53673,UPI,Delivered,Gurgaon,107346
+500276,09:01.2,28663,Customer_28663,Male,29,Electronics,Shoes,1,24363,Credit Card,Returned,Delhi,24363
+500277,17:46.8,11201,Customer_11201,Male,63,Electronics,T-Shirt,4,31278,UPI,Delivered,Mumbai,125112
+500278,26:32.4,26702,Customer_26702,Male,63,Home & Kitchen,Watch,3,12945,UPI,Delivered,Bangalore,38835
+500279,35:18.0,12503,Customer_12503,Male,61,Electronics,Watch,2,20348,UPI,Delivered,Chennai,40696
+500280,44:03.6,29214,Customer_29214,Female,54,Sports,Mixer,4,58217,Net Banking,Delivered,Noida,232868
+500281,52:49.2,36051,Customer_36051,Male,61,Fashion,Watch,2,45671,Cash on Delivery,Delivered,Mumbai,91342
+500282,01:34.8,37101,Customer_37101,Male,56,Beauty,Headphones,4,61875,Net Banking,Delivered,Hyderabad,247500
+500283,10:20.4,21755,Customer_21755,Male,64,Beauty,Lipstick,2,41708,Debit Card,Delivered,Delhi,83416
+500284,19:06.0,17520,Customer_17520,Female,19,Electronics,Mixer,2,22215,Credit Card,Delivered,Mumbai,44430
+500285,27:51.6,45722,Customer_45722,Male,51,Sports,T-Shirt,3,11084,Cash on Delivery,Delivered,Gurgaon,33252
+500286,36:37.2,33210,Customer_33210,Male,36,Beauty,Mixer,2,21179,UPI,Delivered,Pune,42358
+500287,45:22.9,36042,Customer_36042,Male,46,Home & Kitchen,Headphones,1,2521,UPI,Delivered,Chennai,2521
+500288,54:08.5,39529,Customer_39529,Female,56,Electronics,T-Shirt,4,60901,Cash on Delivery,Delivered,Mumbai,243604
+500289,02:54.1,29191,Customer_29191,Female,25,Electronics,Mobile,2,22786,UPI,Cancelled,Noida,45572
+500290,11:39.7,38382,Customer_38382,Female,37,Electronics,Mobile,4,35010,Debit Card,Delivered,Mumbai,140040
+500291,20:25.3,24029,Customer_24029,Male,56,Home & Kitchen,T-Shirt,4,5676,Cash on Delivery,Delivered,Delhi,22704
+500292,29:10.9,14947,Customer_14947,Male,46,Beauty,Mixer,2,40198,Cash on Delivery,Delivered,Mumbai,80396
+500293,37:56.5,26490,Customer_26490,Male,27,Sports,Mobile,2,24888,Credit Card,Delivered,Chennai,49776
+500294,46:42.1,39841,Customer_39841,Female,30,Fashion,Laptop,1,57179,Credit Card,Delivered,Hyderabad,57179
+500295,55:27.7,15279,Customer_15279,Male,52,Beauty,Lipstick,1,67399,UPI,Delivered,Gurgaon,67399
+500296,04:13.3,41860,Customer_41860,Female,49,Sports,Laptop,3,11124,Net Banking,Delivered,Noida,33372
+500297,12:58.9,32741,Customer_32741,Male,55,Sports,T-Shirt,4,2890,Debit Card,Delivered,Pune,11560
+500298,21:44.5,47202,Customer_47202,Female,44,Beauty,Mixer,2,67854,Credit Card,Delivered,Delhi,135708
+500299,30:30.1,23059,Customer_23059,Female,19,Electronics,Shoes,4,56719,UPI,Delivered,Pune,226876
+500300,39:15.7,25663,Customer_25663,Female,37,Fashion,Shoes,4,38313,UPI,Delivered,Noida,153252
+500301,48:01.3,31329,Customer_31329,Female,44,Fashion,Mobile,4,11854,Net Banking,Delivered,Bangalore,47416
+500302,56:46.9,29228,Customer_29228,Female,21,Electronics,Watch,2,63654,Debit Card,Delivered,Noida,127308
+500303,05:32.5,49241,Customer_49241,Female,63,Sports,Shoes,2,54206,Credit Card,Delivered,Noida,108412
+500304,14:18.1,49453,Customer_49453,Female,20,Fashion,Mixer,2,55541,Cash on Delivery,Cancelled,Pune,111082
+500305,23:03.7,23955,Customer_23955,Female,35,Beauty,Laptop,1,1246,Cash on Delivery,Delivered,Bangalore,1246
+500306,31:49.3,44532,Customer_44532,Male,43,Sports,Mobile,3,11717,UPI,Delivered,Chennai,35151
+500307,40:34.9,49310,Customer_49310,Female,31,Electronics,T-Shirt,2,1507,UPI,Delivered,Chennai,3014
+500308,49:20.5,37941,Customer_37941,Male,50,Fashion,Mobile,3,18555,Net Banking,Delivered,Pune,55665
+500309,58:06.1,16885,Customer_16885,Male,31,Fashion,Mobile,1,14660,UPI,Delivered,Pune,14660
+500310,06:51.8,39865,Customer_39865,Female,19,Beauty,Laptop,4,24296,Debit Card,Delivered,Noida,97184
+500311,15:37.4,15139,Customer_15139,Female,60,Electronics,Lipstick,4,30882,Cash on Delivery,Delivered,Chennai,123528
+500312,24:23.0,14322,Customer_14322,Male,55,Sports,Shoes,3,58837,Credit Card,Delivered,Chennai,176511
+500313,33:08.6,17079,Customer_17079,Female,19,Electronics,Shoes,2,9569,Cash on Delivery,Returned,Noida,19138
+500314,41:54.2,12548,Customer_12548,Female,21,Fashion,Headphones,4,7849,UPI,Delivered,Noida,31396
+500315,50:39.8,44351,Customer_44351,Male,29,Beauty,Laptop,1,40638,Net Banking,Delivered,Mumbai,40638
+500316,59:25.4,24554,Customer_24554,Female,26,Beauty,Shoes,1,48521,Net Banking,Delivered,Bangalore,48521
+500317,08:11.0,12560,Customer_12560,Female,18,Fashion,Mobile,2,23584,Net Banking,Delivered,Noida,47168
+500318,16:56.6,41078,Customer_41078,Female,63,Sports,T-Shirt,3,10260,Cash on Delivery,Delivered,Delhi,30780
+500319,25:42.2,41843,Customer_41843,Female,47,Fashion,Laptop,3,32219,Debit Card,Delivered,Mumbai,96657
+500320,34:27.8,35292,Customer_35292,Male,62,Home & Kitchen,Laptop,3,55101,Debit Card,Delivered,Bangalore,165303
+500321,43:13.4,33995,Customer_33995,Female,62,Fashion,Watch,3,53800,Cash on Delivery,Delivered,Gurgaon,161400
+500322,51:59.0,36283,Customer_36283,Female,24,Home & Kitchen,Lipstick,1,29333,Credit Card,Delivered,Delhi,29333
+500323,00:44.6,14891,Customer_14891,Female,43,Fashion,Laptop,3,50003,UPI,Returned,Pune,150009
+500324,09:30.2,38905,Customer_38905,Female,46,Electronics,Lipstick,1,60616,UPI,Delivered,Pune,60616
+500325,18:15.8,17062,Customer_17062,Male,18,Fashion,Mobile,2,29856,UPI,Delivered,Pune,59712
+500326,27:01.4,16109,Customer_16109,Male,50,Fashion,T-Shirt,4,40437,Net Banking,Delivered,Hyderabad,161748
+500327,35:47.0,46390,Customer_46390,Male,44,Sports,Shoes,2,55622,Credit Card,Delivered,Delhi,111244
+500328,44:32.6,33530,Customer_33530,Male,28,Sports,Mixer,4,11503,UPI,Delivered,Gurgaon,46012
+500329,53:18.2,41209,Customer_41209,Male,34,Sports,Headphones,1,29946,Net Banking,Delivered,Hyderabad,29946
+500330,02:03.8,31739,Customer_31739,Male,45,Sports,Laptop,3,31099,UPI,Cancelled,Pune,93297
+500331,10:49.4,28188,Customer_28188,Female,26,Sports,Shoes,2,30663,Debit Card,Delivered,Bangalore,61326
+500332,19:35.1,32423,Customer_32423,Female,19,Electronics,Mixer,1,4301,Net Banking,Delivered,Delhi,4301
+500333,28:20.7,45335,Customer_45335,Female,22,Fashion,Watch,2,31240,Cash on Delivery,Delivered,Bangalore,62480
+500334,37:06.3,20337,Customer_20337,Female,33,Fashion,Mobile,2,15081,UPI,Delivered,Chennai,30162
+500335,45:51.9,13727,Customer_13727,Female,30,Fashion,Mobile,2,43706,UPI,Returned,Mumbai,87412
+500336,54:37.5,28533,Customer_28533,Male,64,Electronics,Laptop,1,25125,Cash on Delivery,Delivered,Gurgaon,25125
+500337,03:23.1,47208,Customer_47208,Male,35,Sports,Watch,1,13400,Cash on Delivery,Delivered,Noida,13400
+500338,12:08.7,22196,Customer_22196,Male,26,Beauty,Lipstick,4,63190,UPI,Delivered,Gurgaon,252760
+500339,20:54.3,21968,Customer_21968,Male,18,Home & Kitchen,Watch,2,40782,Cash on Delivery,Delivered,Hyderabad,81564
+500340,29:39.9,10380,Customer_10380,Male,36,Home & Kitchen,Shoes,4,29554,Debit Card,Delivered,Hyderabad,118216
+500341,38:25.5,12593,Customer_12593,Male,45,Home & Kitchen,Watch,4,12076,Debit Card,Delivered,Bangalore,48304
+500342,47:11.1,34175,Customer_34175,Female,61,Sports,Watch,4,40979,Debit Card,Delivered,Noida,163916
+500343,55:56.7,16834,Customer_16834,Male,37,Home & Kitchen,Laptop,3,16905,Debit Card,Delivered,Chennai,50715
+500344,04:42.3,21239,Customer_21239,Male,54,Beauty,Mixer,3,64258,Cash on Delivery,Delivered,Bangalore,192774
+500345,13:27.9,48779,Customer_48779,Male,18,Beauty,Mixer,4,39493,Net Banking,Delivered,Hyderabad,157972
+500346,22:13.5,49041,Customer_49041,Male,59,Electronics,Lipstick,4,10001,Credit Card,Delivered,Mumbai,40004
+500347,30:59.1,30119,Customer_30119,Female,20,Electronics,Mixer,3,39905,Cash on Delivery,Delivered,Noida,119715
+500348,39:44.7,31602,Customer_31602,Female,29,Beauty,Headphones,3,34806,Debit Card,Delivered,Mumbai,104418
+500349,48:30.3,38103,Customer_38103,Male,30,Electronics,Mixer,3,44312,Credit Card,Delivered,Gurgaon,132936
+500350,57:15.9,49827,Customer_49827,Male,44,Fashion,Mixer,2,20770,Net Banking,Delivered,Hyderabad,41540
+500351,06:01.5,29228,Customer_29228,Male,44,Sports,Mobile,4,58142,Credit Card,Delivered,Hyderabad,232568
+500352,14:47.1,25005,Customer_25005,Female,44,Fashion,Watch,4,58881,Debit Card,Delivered,Delhi,235524
+500353,23:32.7,38134,Customer_38134,Male,64,Fashion,Headphones,1,9164,Debit Card,Delivered,Mumbai,9164
+500354,32:18.3,36215,Customer_36215,Female,60,Home & Kitchen,T-Shirt,2,30596,UPI,Delivered,Chennai,61192
+500355,41:04.0,14831,Customer_14831,Male,45,Beauty,Mixer,2,57714,Credit Card,Delivered,Gurgaon,115428
+500356,49:49.6,10819,Customer_10819,Female,40,Home & Kitchen,Watch,1,44575,Cash on Delivery,Returned,Gurgaon,44575
+500357,58:35.2,26904,Customer_26904,Male,53,Electronics,Watch,3,16568,UPI,Delivered,Delhi,49704
+500358,07:20.8,40166,Customer_40166,Male,29,Sports,Mobile,2,55724,Credit Card,Delivered,Hyderabad,111448
+500359,16:06.4,20984,Customer_20984,Male,51,Electronics,Mobile,2,18242,Net Banking,Delivered,Mumbai,36484
+500360,24:52.0,44462,Customer_44462,Female,46,Electronics,Laptop,3,15392,UPI,Delivered,Pune,46176
+500361,33:37.6,48334,Customer_48334,Male,45,Sports,Laptop,3,22072,UPI,Delivered,Delhi,66216
+500362,42:23.2,34572,Customer_34572,Male,45,Sports,Mixer,4,18554,Cash on Delivery,Delivered,Pune,74216
+500363,51:08.8,35595,Customer_35595,Female,18,Home & Kitchen,Watch,4,43095,Debit Card,Delivered,Chennai,172380
+500364,59:54.4,21807,Customer_21807,Female,39,Electronics,Lipstick,4,36909,UPI,Delivered,Bangalore,147636
+500365,08:40.0,43713,Customer_43713,Female,35,Sports,Mixer,3,68676,Cash on Delivery,Delivered,Hyderabad,206028
+500366,17:25.6,41903,Customer_41903,Male,52,Beauty,Mixer,1,67234,Debit Card,Delivered,Mumbai,67234
+500367,26:11.2,23720,Customer_23720,Male,60,Electronics,Mobile,1,13176,Credit Card,Returned,Noida,13176
+500368,34:56.8,43501,Customer_43501,Female,34,Electronics,Mobile,1,33168,UPI,Delivered,Bangalore,33168
+500369,43:42.4,35281,Customer_35281,Male,20,Beauty,Watch,3,47133,Cash on Delivery,Delivered,Delhi,141399
+500370,52:28.0,12792,Customer_12792,Female,32,Fashion,Watch,4,66054,Cash on Delivery,Delivered,Delhi,264216
+500371,01:13.6,37789,Customer_37789,Male,52,Sports,Lipstick,1,58802,Cash on Delivery,Delivered,Noida,58802
+500372,09:59.2,47522,Customer_47522,Female,59,Fashion,Shoes,4,58770,Cash on Delivery,Delivered,Pune,235080
+500373,18:44.8,39435,Customer_39435,Male,40,Beauty,Mixer,3,54486,Debit Card,Delivered,Pune,163458
+500374,27:30.4,22811,Customer_22811,Female,38,Fashion,Shoes,3,11304,Debit Card,Delivered,Chennai,33912
+500375,36:16.0,49965,Customer_49965,Male,31,Home & Kitchen,Mixer,2,40805,Credit Card,Delivered,Noida,81610
+500376,45:01.6,24314,Customer_24314,Male,34,Electronics,Mobile,1,66088,Credit Card,Delivered,Noida,66088
+500377,53:47.2,39644,Customer_39644,Female,32,Fashion,Mobile,2,35100,Debit Card,Cancelled,Delhi,70200
+500378,02:32.9,26210,Customer_26210,Male,31,Beauty,T-Shirt,1,26641,Cash on Delivery,Delivered,Delhi,26641
+500379,11:18.5,10043,Customer_10043,Female,57,Home & Kitchen,Headphones,4,51137,Credit Card,Delivered,Pune,204548
+500380,20:04.1,36199,Customer_36199,Female,47,Beauty,Headphones,4,41003,Debit Card,Delivered,Chennai,164012
+500381,28:49.7,43081,Customer_43081,Male,37,Fashion,Laptop,2,26634,UPI,Delivered,Noida,53268
+500382,37:35.3,49503,Customer_49503,Female,25,Sports,T-Shirt,2,17381,Credit Card,Delivered,Pune,34762
+500383,46:20.9,34408,Customer_34408,Male,49,Beauty,Watch,4,5543,Cash on Delivery,Delivered,Mumbai,22172
+500384,55:06.5,18187,Customer_18187,Female,23,Electronics,Lipstick,3,22373,Credit Card,Delivered,Chennai,67119
+500385,03:52.1,10374,Customer_10374,Male,21,Fashion,Mobile,3,59134,Credit Card,Delivered,Noida,177402
+500386,12:37.7,43490,Customer_43490,Female,53,Home & Kitchen,Mobile,2,23286,Net Banking,Returned,Delhi,46572
+500387,21:23.3,17881,Customer_17881,Female,53,Electronics,Watch,1,25729,Cash on Delivery,Delivered,Noida,25729
+500388,30:08.9,48705,Customer_48705,Male,45,Home & Kitchen,Shoes,3,11344,Cash on Delivery,Delivered,Gurgaon,34032
+500389,38:54.5,16646,Customer_16646,Male,20,Electronics,Mixer,4,2873,Net Banking,Delivered,Bangalore,11492
+500390,47:40.1,25124,Customer_25124,Female,49,Electronics,Watch,1,54720,Credit Card,Delivered,Pune,54720
+500391,56:25.7,15517,Customer_15517,Female,39,Beauty,Watch,4,6049,Cash on Delivery,Delivered,Gurgaon,24196
+500392,05:11.3,18346,Customer_18346,Female,53,Electronics,Laptop,4,61980,Credit Card,Returned,Pune,247920
+500393,13:56.9,34910,Customer_34910,Male,58,Electronics,Mobile,2,61975,Debit Card,Delivered,Mumbai,123950
+500394,22:42.5,21025,Customer_21025,Male,51,Sports,Shoes,4,49875,Credit Card,Delivered,Delhi,199500
+500395,31:28.1,48149,Customer_48149,Female,43,Home & Kitchen,Mobile,3,8949,Credit Card,Delivered,Delhi,26847
+500396,40:13.7,14057,Customer_14057,Female,30,Fashion,Mixer,1,27863,Cash on Delivery,Returned,Pune,27863
+500397,48:59.3,19079,Customer_19079,Male,28,Electronics,Lipstick,4,6806,UPI,Delivered,Gurgaon,27224
+500398,57:44.9,14764,Customer_14764,Female,29,Fashion,Headphones,1,3811,Net Banking,Delivered,Pune,3811
+500399,06:30.5,12995,Customer_12995,Male,27,Sports,Shoes,4,39379,Debit Card,Cancelled,Bangalore,157516
+500400,15:16.1,45653,Customer_45653,Male,51,Home & Kitchen,Headphones,2,12101,Debit Card,Delivered,Delhi,24202
+500401,24:01.8,44491,Customer_44491,Male,47,Electronics,Mobile,2,66825,UPI,Delivered,Pune,133650
+500402,32:47.4,23443,Customer_23443,Male,46,Beauty,Mobile,1,38463,Credit Card,Delivered,Chennai,38463
+500403,41:33.0,11889,Customer_11889,Male,64,Home & Kitchen,Shoes,4,51364,Credit Card,Delivered,Mumbai,205456
+500404,50:18.6,42062,Customer_42062,Male,42,Sports,Watch,4,67331,Net Banking,Delivered,Hyderabad,269324
+500405,59:04.2,30987,Customer_30987,Male,24,Home & Kitchen,Shoes,4,59006,Cash on Delivery,Delivered,Noida,236024
+500406,07:49.8,26203,Customer_26203,Male,29,Beauty,T-Shirt,3,21145,Net Banking,Delivered,Gurgaon,63435
+500407,16:35.4,45731,Customer_45731,Female,25,Sports,Laptop,2,13660,Net Banking,Delivered,Mumbai,27320
+500408,25:21.0,11183,Customer_11183,Male,55,Home & Kitchen,Headphones,1,22527,Credit Card,Delivered,Delhi,22527
+500409,34:06.6,18337,Customer_18337,Male,63,Sports,Mobile,3,39422,UPI,Delivered,Noida,118266
+500410,42:52.2,44656,Customer_44656,Male,62,Fashion,Watch,4,28080,Cash on Delivery,Delivered,Pune,112320
+500411,51:37.8,23921,Customer_23921,Male,59,Home & Kitchen,Mixer,1,15985,Net Banking,Delivered,Noida,15985
+500412,00:23.4,35533,Customer_35533,Male,29,Beauty,Watch,4,19381,Cash on Delivery,Delivered,Pune,77524
+500413,09:09.0,25788,Customer_25788,Female,40,Beauty,Mixer,4,53850,Net Banking,Delivered,Mumbai,215400
+500414,17:54.6,13821,Customer_13821,Male,29,Beauty,Laptop,2,58162,Debit Card,Delivered,Gurgaon,116324
+500415,26:40.2,20528,Customer_20528,Female,25,Electronics,Mixer,4,65814,UPI,Delivered,Gurgaon,263256
+500416,35:25.8,39284,Customer_39284,Female,35,Home & Kitchen,Mixer,2,12281,Debit Card,Delivered,Noida,24562
+500417,44:11.4,37417,Customer_37417,Male,60,Home & Kitchen,Lipstick,4,40335,Credit Card,Cancelled,Noida,161340
+500418,52:57.0,25894,Customer_25894,Male,28,Home & Kitchen,Watch,4,69523,Credit Card,Delivered,Delhi,278092
+500419,01:42.6,25906,Customer_25906,Female,43,Home & Kitchen,Lipstick,3,34160,Cash on Delivery,Delivered,Mumbai,102480
+500420,10:28.2,36629,Customer_36629,Male,45,Beauty,Mobile,2,64218,UPI,Delivered,Noida,128436
+500421,19:13.8,12600,Customer_12600,Male,41,Beauty,Headphones,4,59711,Net Banking,Delivered,Chennai,238844
+500422,27:59.4,41812,Customer_41812,Male,36,Sports,Shoes,1,13208,Credit Card,Delivered,Mumbai,13208
+500423,36:45.0,36787,Customer_36787,Female,49,Electronics,Headphones,3,35117,Credit Card,Delivered,Bangalore,105351
+500424,45:30.7,30523,Customer_30523,Male,22,Fashion,Mixer,1,3870,Credit Card,Delivered,Gurgaon,3870
+500425,54:16.3,30303,Customer_30303,Female,53,Home & Kitchen,Lipstick,4,31155,UPI,Returned,Mumbai,124620
+500426,03:01.9,26231,Customer_26231,Male,59,Home & Kitchen,Watch,3,18456,Net Banking,Delivered,Noida,55368
+500427,11:47.5,13111,Customer_13111,Female,28,Fashion,Mixer,1,11107,Debit Card,Delivered,Hyderabad,11107
+500428,20:33.1,38337,Customer_38337,Male,32,Electronics,Headphones,1,61914,Net Banking,Delivered,Bangalore,61914
+500429,29:18.7,32226,Customer_32226,Male,34,Beauty,T-Shirt,1,29442,Cash on Delivery,Delivered,Bangalore,29442
+500430,38:04.3,46614,Customer_46614,Female,19,Sports,Watch,1,53518,Cash on Delivery,Delivered,Pune,53518
+500431,46:49.9,48395,Customer_48395,Female,37,Sports,Mobile,3,59744,Credit Card,Delivered,Delhi,179232
+500432,55:35.5,29687,Customer_29687,Male,21,Home & Kitchen,Lipstick,4,69243,Debit Card,Delivered,Chennai,276972
+500433,04:21.1,16646,Customer_16646,Female,25,Sports,Laptop,3,67702,Debit Card,Returned,Delhi,203106
+500434,13:06.7,33945,Customer_33945,Female,27,Fashion,Shoes,2,4309,Debit Card,Delivered,Gurgaon,8618
+500435,21:52.3,34873,Customer_34873,Female,37,Fashion,Lipstick,1,68278,UPI,Delivered,Noida,68278
+500436,30:37.9,47062,Customer_47062,Female,56,Beauty,Mobile,4,27823,Credit Card,Returned,Gurgaon,111292
+500437,39:23.5,48920,Customer_48920,Male,33,Fashion,Lipstick,3,38142,UPI,Delivered,Delhi,114426
+500438,48:09.1,27871,Customer_27871,Female,26,Home & Kitchen,Shoes,2,29096,UPI,Cancelled,Chennai,58192
+500439,56:54.7,29238,Customer_29238,Male,47,Beauty,Watch,3,40548,UPI,Delivered,Bangalore,121644
+500440,05:40.3,35450,Customer_35450,Female,35,Electronics,Headphones,4,21566,Credit Card,Delivered,Mumbai,86264
+500441,14:25.9,17714,Customer_17714,Male,23,Electronics,T-Shirt,3,60519,Debit Card,Delivered,Hyderabad,181557
+500442,23:11.5,37164,Customer_37164,Male,59,Beauty,Mixer,3,49911,Cash on Delivery,Delivered,Pune,149733
+500443,31:57.1,39364,Customer_39364,Male,37,Beauty,Lipstick,4,32984,Debit Card,Delivered,Mumbai,131936
+500444,40:42.7,25438,Customer_25438,Female,22,Home & Kitchen,Watch,2,58033,Debit Card,Delivered,Delhi,116066
+500445,49:28.3,10175,Customer_10175,Male,56,Fashion,Shoes,3,15154,Debit Card,Delivered,Noida,45462
+500446,58:13.9,27418,Customer_27418,Male,47,Electronics,Mobile,3,17746,UPI,Delivered,Bangalore,53238
+500447,06:59.6,39508,Customer_39508,Female,31,Fashion,T-Shirt,3,10196,UPI,Delivered,Gurgaon,30588
+500448,15:45.2,46612,Customer_46612,Female,31,Electronics,Laptop,4,42703,UPI,Delivered,Hyderabad,170812
+500449,24:30.8,47828,Customer_47828,Male,29,Home & Kitchen,Mobile,2,59775,Net Banking,Delivered,Mumbai,119550
+500450,33:16.4,14919,Customer_14919,Male,55,Sports,Laptop,3,54080,Cash on Delivery,Delivered,Mumbai,162240
+500451,42:02.0,11984,Customer_11984,Male,50,Fashion,Headphones,4,17440,Net Banking,Delivered,Hyderabad,69760
+500452,50:47.6,19444,Customer_19444,Female,28,Beauty,Headphones,1,9626,Debit Card,Returned,Mumbai,9626
+500453,59:33.2,19809,Customer_19809,Male,39,Sports,Lipstick,1,18377,Credit Card,Delivered,Pune,18377
+500454,08:18.8,13357,Customer_13357,Male,33,Electronics,Headphones,3,60044,Debit Card,Delivered,Pune,180132
+500455,17:04.4,44241,Customer_44241,Female,34,Beauty,T-Shirt,2,35120,Cash on Delivery,Delivered,Pune,70240
+500456,25:50.0,48310,Customer_48310,Female,26,Fashion,Shoes,4,38148,UPI,Delivered,Bangalore,152592
+500457,34:35.6,43171,Customer_43171,Male,25,Electronics,Shoes,1,59905,Net Banking,Cancelled,Chennai,59905
+500458,43:21.2,49247,Customer_49247,Male,52,Home & Kitchen,Mixer,1,40148,Debit Card,Cancelled,Gurgaon,40148
+500459,52:06.8,15480,Customer_15480,Male,31,Electronics,Lipstick,3,50635,Debit Card,Delivered,Delhi,151905
+500460,00:52.4,29421,Customer_29421,Female,20,Electronics,Headphones,1,37003,Net Banking,Delivered,Mumbai,37003
+500461,09:38.0,31557,Customer_31557,Female,48,Beauty,T-Shirt,1,17475,Debit Card,Delivered,Pune,17475
+500462,18:23.6,36415,Customer_36415,Male,36,Electronics,Laptop,4,59963,UPI,Delivered,Pune,239852
+500463,27:09.2,34640,Customer_34640,Male,63,Sports,Lipstick,2,2186,UPI,Delivered,Pune,4372
+500464,35:54.8,42380,Customer_42380,Female,63,Sports,Shoes,2,44799,Credit Card,Delivered,Pune,89598
+500465,44:40.4,27043,Customer_27043,Male,30,Fashion,Mixer,2,43505,Credit Card,Delivered,Bangalore,87010
+500466,53:26.0,48393,Customer_48393,Male,56,Electronics,T-Shirt,4,59933,Credit Card,Delivered,Chennai,239732
+500467,02:11.6,15160,Customer_15160,Male,39,Sports,Mobile,1,9810,Credit Card,Returned,Mumbai,9810
+500468,10:57.2,21037,Customer_21037,Female,29,Electronics,Mobile,4,1063,Net Banking,Cancelled,Bangalore,4252
+500469,19:42.8,27975,Customer_27975,Male,49,Sports,T-Shirt,4,50173,UPI,Cancelled,Delhi,200692
+500470,28:28.5,23672,Customer_23672,Female,54,Home & Kitchen,Shoes,1,45379,Net Banking,Delivered,Chennai,45379
+500471,37:14.1,31437,Customer_31437,Female,28,Electronics,T-Shirt,2,16574,UPI,Delivered,Hyderabad,33148
+500472,45:59.7,36475,Customer_36475,Female,58,Sports,Lipstick,1,22764,Debit Card,Delivered,Mumbai,22764
+500473,54:45.3,48285,Customer_48285,Male,31,Electronics,Headphones,2,33865,Cash on Delivery,Delivered,Mumbai,67730
+500474,03:30.9,42840,Customer_42840,Male,62,Home & Kitchen,Laptop,1,69466,Net Banking,Delivered,Noida,69466
+500475,12:16.5,13453,Customer_13453,Female,39,Electronics,Laptop,3,10444,Credit Card,Delivered,Delhi,31332
+500476,21:02.1,26852,Customer_26852,Male,61,Beauty,Watch,2,46912,Cash on Delivery,Delivered,Pune,93824
+500477,29:47.7,34116,Customer_34116,Male,41,Fashion,Laptop,2,29758,Cash on Delivery,Delivered,Noida,59516
+500478,38:33.3,21169,Customer_21169,Female,23,Fashion,Mobile,3,40832,Net Banking,Returned,Hyderabad,122496
+500479,47:18.9,23005,Customer_23005,Male,51,Fashion,Mixer,4,17719,Cash on Delivery,Cancelled,Delhi,70876
+500480,56:04.5,37751,Customer_37751,Male,25,Fashion,Laptop,3,58322,Net Banking,Delivered,Pune,174966
+500481,04:50.1,22468,Customer_22468,Male,43,Fashion,T-Shirt,1,69334,Net Banking,Delivered,Mumbai,69334
+500482,13:35.7,29607,Customer_29607,Female,55,Electronics,T-Shirt,1,37736,Cash on Delivery,Cancelled,Mumbai,37736
+500483,22:21.3,36886,Customer_36886,Female,27,Electronics,Shoes,1,51170,Debit Card,Returned,Mumbai,51170
+500484,31:06.9,31980,Customer_31980,Male,32,Sports,Headphones,1,4430,Debit Card,Cancelled,Bangalore,4430
+500485,39:52.5,30576,Customer_30576,Female,26,Sports,Watch,1,3878,UPI,Delivered,Noida,3878
+500486,48:38.1,13479,Customer_13479,Male,60,Fashion,Headphones,4,57389,Credit Card,Delivered,Gurgaon,229556
+500487,57:23.7,17885,Customer_17885,Male,33,Fashion,Mixer,1,58604,Credit Card,Delivered,Gurgaon,58604
+500488,06:09.3,21381,Customer_21381,Female,63,Fashion,Mixer,2,32241,Cash on Delivery,Delivered,Noida,64482
+500489,14:54.9,11390,Customer_11390,Male,42,Fashion,Laptop,2,37457,UPI,Delivered,Pune,74914
+500490,23:40.5,29479,Customer_29479,Female,56,Beauty,Mobile,1,19678,Cash on Delivery,Delivered,Delhi,19678
+500491,32:26.1,31479,Customer_31479,Female,29,Beauty,Laptop,3,69918,UPI,Cancelled,Pune,209754
+500492,41:11.8,48174,Customer_48174,Female,64,Electronics,T-Shirt,3,57751,Credit Card,Returned,Mumbai,173253
+500493,49:57.4,22307,Customer_22307,Female,49,Beauty,Watch,2,65001,UPI,Delivered,Bangalore,130002
+500494,58:43.0,10053,Customer_10053,Female,60,Sports,Watch,1,7106,Debit Card,Delivered,Chennai,7106
+500495,07:28.6,22411,Customer_22411,Female,37,Home & Kitchen,Lipstick,1,22897,Cash on Delivery,Delivered,Noida,22897
+500496,16:14.2,46384,Customer_46384,Female,46,Electronics,T-Shirt,3,33493,Debit Card,Delivered,Mumbai,100479
+500497,24:59.8,27876,Customer_27876,Male,64,Sports,Headphones,3,10348,Net Banking,Delivered,Pune,31044
+500498,33:45.4,34954,Customer_34954,Male,45,Beauty,Lipstick,2,64671,Net Banking,Delivered,Mumbai,129342
+500499,42:31.0,20988,Customer_20988,Female,49,Sports,Laptop,4,58096,Net Banking,Delivered,Pune,232384
+500500,51:16.6,39620,Customer_39620,Female,40,Home & Kitchen,T-Shirt,4,51637,UPI,Delivered,Chennai,206548
+500501,00:02.2,41944,Customer_41944,Male,23,Fashion,Shoes,2,41068,Credit Card,Returned,Mumbai,82136
+500502,08:47.8,19905,Customer_19905,Male,25,Sports,Laptop,2,69893,Net Banking,Delivered,Hyderabad,139786
+500503,17:33.4,34989,Customer_34989,Female,23,Home & Kitchen,Mobile,1,10468,Credit Card,Cancelled,Hyderabad,10468
+500504,26:19.0,34276,Customer_34276,Female,42,Fashion,Shoes,4,68467,UPI,Delivered,Pune,273868
+500505,35:04.6,31276,Customer_31276,Female,26,Home & Kitchen,T-Shirt,1,7023,Cash on Delivery,Cancelled,Pune,7023
+500506,43:50.2,36412,Customer_36412,Male,44,Home & Kitchen,Headphones,2,3962,Credit Card,Delivered,Mumbai,7924
+500507,52:35.8,32096,Customer_32096,Female,61,Sports,Lipstick,3,65010,Credit Card,Delivered,Gurgaon,195030
+500508,01:21.4,19031,Customer_19031,Male,22,Electronics,Laptop,1,39257,Cash on Delivery,Delivered,Delhi,39257
+500509,10:07.0,47209,Customer_47209,Female,55,Fashion,Laptop,1,17231,Net Banking,Delivered,Delhi,17231
+500510,18:52.6,11019,Customer_11019,Male,26,Beauty,Mobile,3,64103,Credit Card,Cancelled,Delhi,192309
+500511,27:38.2,27932,Customer_27932,Female,43,Home & Kitchen,Watch,1,66103,Cash on Delivery,Delivered,Gurgaon,66103
+500512,36:23.8,41326,Customer_41326,Male,43,Home & Kitchen,Mixer,3,10722,UPI,Delivered,Delhi,32166
+500513,45:09.4,43040,Customer_43040,Female,55,Electronics,Shoes,4,8657,Net Banking,Returned,Pune,34628
+500514,53:55.0,42739,Customer_42739,Male,53,Home & Kitchen,Watch,4,45361,Debit Card,Delivered,Chennai,181444
+500515,02:40.7,29904,Customer_29904,Male,31,Sports,Lipstick,1,42020,Debit Card,Delivered,Bangalore,42020
+500516,11:26.3,43902,Customer_43902,Male,40,Fashion,Headphones,4,46696,Debit Card,Cancelled,Noida,186784
+500517,20:11.9,38115,Customer_38115,Female,22,Sports,Mobile,2,23045,Debit Card,Delivered,Gurgaon,46090
+500518,28:57.5,14781,Customer_14781,Male,39,Home & Kitchen,Mobile,1,20441,UPI,Delivered,Hyderabad,20441
+500519,37:43.1,12924,Customer_12924,Male,55,Fashion,Headphones,2,43679,Credit Card,Delivered,Delhi,87358
+500520,46:28.7,27639,Customer_27639,Female,43,Beauty,Mobile,4,2440,Net Banking,Delivered,Chennai,9760
+500521,55:14.3,30353,Customer_30353,Female,47,Electronics,Laptop,1,64093,Net Banking,Returned,Hyderabad,64093
+500522,03:59.9,30721,Customer_30721,Male,34,Electronics,Mixer,2,28726,Cash on Delivery,Delivered,Gurgaon,57452
+500523,12:45.5,13426,Customer_13426,Male,20,Fashion,Laptop,1,51540,Cash on Delivery,Delivered,Bangalore,51540
+500524,21:31.1,27491,Customer_27491,Male,57,Sports,Watch,4,62470,Net Banking,Delivered,Delhi,249880
+500525,30:16.7,34440,Customer_34440,Female,37,Fashion,Shoes,3,17470,Net Banking,Delivered,Hyderabad,52410
+500526,39:02.3,19160,Customer_19160,Male,43,Home & Kitchen,Mobile,4,56230,Cash on Delivery,Cancelled,Pune,224920
+500527,47:47.9,20741,Customer_20741,Female,25,Home & Kitchen,Watch,3,12655,Credit Card,Delivered,Pune,37965
+500528,56:33.5,39349,Customer_39349,Male,29,Electronics,Watch,1,33294,UPI,Delivered,Chennai,33294
+500529,05:19.1,35474,Customer_35474,Female,55,Electronics,Mobile,1,37860,UPI,Cancelled,Bangalore,37860
+500530,14:04.7,27753,Customer_27753,Female,21,Home & Kitchen,Mobile,4,50160,Cash on Delivery,Delivered,Pune,200640
+500531,22:50.3,33391,Customer_33391,Female,27,Electronics,Mixer,1,42955,Net Banking,Cancelled,Pune,42955
+500532,31:35.9,49446,Customer_49446,Male,33,Sports,Laptop,1,1461,Debit Card,Delivered,Bangalore,1461
+500533,40:21.5,28629,Customer_28629,Female,23,Electronics,Mobile,4,56084,Cash on Delivery,Delivered,Chennai,224336
+500534,49:07.1,30145,Customer_30145,Male,34,Sports,Mobile,3,39666,UPI,Delivered,Bangalore,118998
+500535,57:52.7,33671,Customer_33671,Female,64,Electronics,Mixer,3,52917,Cash on Delivery,Returned,Noida,158751
+500536,06:38.3,23133,Customer_23133,Male,60,Sports,Shoes,3,69553,Net Banking,Delivered,Gurgaon,208659
+500537,15:23.9,31061,Customer_31061,Male,27,Electronics,T-Shirt,1,63481,Net Banking,Delivered,Mumbai,63481
+500538,24:09.6,17361,Customer_17361,Male,64,Beauty,Laptop,3,43607,UPI,Returned,Chennai,130821
+500539,32:55.2,22841,Customer_22841,Female,42,Sports,Mixer,4,56165,Debit Card,Delivered,Gurgaon,224660
+500540,41:40.8,31256,Customer_31256,Male,25,Home & Kitchen,Laptop,4,62293,Cash on Delivery,Delivered,Bangalore,249172
+500541,50:26.4,43544,Customer_43544,Female,28,Beauty,Shoes,2,10055,Net Banking,Delivered,Noida,20110
+500542,59:12.0,23883,Customer_23883,Male,34,Sports,Watch,4,22645,Cash on Delivery,Delivered,Gurgaon,90580
+500543,07:57.6,12181,Customer_12181,Female,45,Beauty,Lipstick,1,15790,Net Banking,Delivered,Delhi,15790
+500544,16:43.2,25750,Customer_25750,Female,35,Beauty,T-Shirt,4,54589,UPI,Delivered,Gurgaon,218356
+500545,25:28.8,34695,Customer_34695,Female,22,Home & Kitchen,Lipstick,2,48772,Debit Card,Cancelled,Pune,97544
+500546,34:14.4,25208,Customer_25208,Female,41,Electronics,Mixer,4,21401,Debit Card,Delivered,Mumbai,85604
+500547,43:00.0,21443,Customer_21443,Male,34,Fashion,Headphones,3,54053,Debit Card,Delivered,Gurgaon,162159
+500548,51:45.6,41309,Customer_41309,Female,43,Home & Kitchen,T-Shirt,2,9684,Debit Card,Delivered,Delhi,19368
+500549,00:31.2,38566,Customer_38566,Female,32,Home & Kitchen,Mixer,1,41303,Cash on Delivery,Cancelled,Gurgaon,41303
+500550,09:16.8,10115,Customer_10115,Male,54,Beauty,Mobile,3,439,Cash on Delivery,Delivered,Hyderabad,1317
+500551,18:02.4,38030,Customer_38030,Female,55,Sports,T-Shirt,2,16593,Credit Card,Cancelled,Hyderabad,33186
+500552,26:48.0,42072,Customer_42072,Female,56,Home & Kitchen,Lipstick,3,7233,Credit Card,Delivered,Gurgaon,21699
+500553,35:33.6,37376,Customer_37376,Male,60,Sports,T-Shirt,4,10048,Credit Card,Delivered,Mumbai,40192
+500554,44:19.2,29946,Customer_29946,Male,63,Beauty,Mobile,4,52280,Cash on Delivery,Delivered,Gurgaon,209120
+500555,53:04.8,30728,Customer_30728,Female,60,Fashion,Laptop,4,20655,Debit Card,Delivered,Mumbai,82620
+500556,01:50.4,47890,Customer_47890,Male,36,Beauty,Laptop,4,19486,Net Banking,Delivered,Gurgaon,77944
+500557,10:36.0,30597,Customer_30597,Male,47,Fashion,Watch,3,31992,UPI,Delivered,Gurgaon,95976
+500558,19:21.6,36838,Customer_36838,Female,40,Electronics,Watch,4,60694,Net Banking,Delivered,Mumbai,242776
+500559,28:07.2,18604,Customer_18604,Female,39,Fashion,Mobile,3,12263,Debit Card,Delivered,Gurgaon,36789
+500560,36:52.8,34231,Customer_34231,Female,39,Beauty,Laptop,2,36286,Debit Card,Delivered,Pune,72572
+500561,45:38.5,17938,Customer_17938,Male,45,Home & Kitchen,Lipstick,4,50290,Debit Card,Delivered,Delhi,201160
+500562,54:24.1,35599,Customer_35599,Male,47,Fashion,Headphones,3,65701,Cash on Delivery,Delivered,Delhi,197103
+500563,03:09.7,27824,Customer_27824,Female,19,Home & Kitchen,Mobile,1,29318,Credit Card,Delivered,Gurgaon,29318
+500564,11:55.3,43014,Customer_43014,Female,42,Home & Kitchen,Laptop,4,41278,UPI,Delivered,Delhi,165112
+500565,20:40.9,38786,Customer_38786,Female,64,Electronics,Lipstick,1,56980,Debit Card,Delivered,Hyderabad,56980
+500566,29:26.5,16173,Customer_16173,Male,64,Beauty,Headphones,2,21432,Credit Card,Returned,Chennai,42864
+500567,38:12.1,24028,Customer_24028,Male,33,Sports,Mixer,3,54406,UPI,Delivered,Delhi,163218
+500568,46:57.7,34179,Customer_34179,Male,57,Home & Kitchen,Lipstick,3,25808,Cash on Delivery,Delivered,Noida,77424
+500569,55:43.3,14163,Customer_14163,Female,42,Electronics,Laptop,3,5881,Credit Card,Delivered,Hyderabad,17643
+500570,04:28.9,26196,Customer_26196,Female,31,Beauty,Mixer,2,55532,Credit Card,Cancelled,Noida,111064
+500571,13:14.5,22107,Customer_22107,Female,36,Electronics,Mixer,4,35508,Net Banking,Delivered,Noida,142032
+500572,22:00.1,25110,Customer_25110,Female,36,Fashion,Laptop,2,46842,Cash on Delivery,Delivered,Chennai,93684
+500573,30:45.7,41654,Customer_41654,Female,58,Beauty,Lipstick,4,64999,Net Banking,Cancelled,Hyderabad,259996
+500574,39:31.3,12413,Customer_12413,Female,20,Fashion,Shoes,4,13600,Net Banking,Delivered,Pune,54400
+500575,48:16.9,38441,Customer_38441,Male,28,Electronics,T-Shirt,4,65320,Debit Card,Cancelled,Mumbai,261280
+500576,57:02.5,49057,Customer_49057,Female,43,Electronics,Headphones,3,17839,Net Banking,Delivered,Bangalore,53517
+500577,05:48.1,43150,Customer_43150,Male,23,Electronics,Shoes,4,64368,Cash on Delivery,Returned,Hyderabad,257472
+500578,14:33.7,25201,Customer_25201,Female,43,Electronics,Mobile,2,30458,Debit Card,Returned,Bangalore,60916
+500579,23:19.3,39994,Customer_39994,Male,29,Home & Kitchen,Watch,2,59217,Credit Card,Delivered,Chennai,118434
+500580,32:04.9,36777,Customer_36777,Female,21,Home & Kitchen,Shoes,2,1049,Net Banking,Delivered,Chennai,2098
+500581,40:50.5,36916,Customer_36916,Female,27,Fashion,Shoes,1,13954,Credit Card,Returned,Bangalore,13954
+500582,49:36.1,22158,Customer_22158,Male,36,Home & Kitchen,Lipstick,3,68611,UPI,Delivered,Noida,205833
+500583,58:21.7,27953,Customer_27953,Male,43,Electronics,Watch,1,8747,Net Banking,Delivered,Chennai,8747
+500584,07:07.4,33598,Customer_33598,Male,53,Home & Kitchen,Headphones,1,32261,Credit Card,Delivered,Chennai,32261
+500585,15:53.0,42601,Customer_42601,Female,30,Beauty,Lipstick,1,9667,Net Banking,Delivered,Delhi,9667
+500586,24:38.6,29371,Customer_29371,Female,33,Electronics,Mixer,2,69028,Cash on Delivery,Delivered,Bangalore,138056
+500587,33:24.2,38730,Customer_38730,Male,33,Home & Kitchen,Mixer,4,7973,Credit Card,Delivered,Hyderabad,31892
+500588,42:09.8,19882,Customer_19882,Female,63,Sports,Headphones,4,56392,Net Banking,Delivered,Chennai,225568
+500589,50:55.4,14457,Customer_14457,Female,19,Beauty,Mobile,1,6794,Net Banking,Returned,Gurgaon,6794
+500590,59:41.0,24370,Customer_24370,Male,34,Fashion,Lipstick,1,48046,Net Banking,Delivered,Delhi,48046
+500591,08:26.6,42247,Customer_42247,Female,18,Home & Kitchen,Laptop,3,22794,Debit Card,Returned,Pune,68382
+500592,17:12.2,14743,Customer_14743,Male,23,Beauty,Mobile,1,69386,Net Banking,Delivered,Gurgaon,69386
+500593,25:57.8,25668,Customer_25668,Female,61,Beauty,Laptop,1,33878,Net Banking,Delivered,Gurgaon,33878
+500594,34:43.4,23564,Customer_23564,Female,55,Beauty,Shoes,1,51536,Debit Card,Delivered,Delhi,51536
+500595,43:29.0,22430,Customer_22430,Male,32,Electronics,Mixer,2,67642,UPI,Delivered,Bangalore,135284
+500596,52:14.6,28064,Customer_28064,Male,26,Electronics,T-Shirt,2,31685,Credit Card,Cancelled,Delhi,63370
+500597,01:00.2,28160,Customer_28160,Male,47,Electronics,Lipstick,2,46415,Debit Card,Delivered,Bangalore,92830
+500598,09:45.8,10062,Customer_10062,Male,31,Sports,Mobile,1,21715,Net Banking,Delivered,Bangalore,21715
+500599,18:31.4,15075,Customer_15075,Male,55,Sports,Mobile,4,8354,UPI,Delivered,Bangalore,33416
+500600,27:17.0,47609,Customer_47609,Female,46,Electronics,Mobile,4,359,UPI,Delivered,Mumbai,1436
+500601,36:02.6,39603,Customer_39603,Female,29,Electronics,T-Shirt,2,2331,Debit Card,Cancelled,Bangalore,4662
+500602,44:48.2,32714,Customer_32714,Female,22,Fashion,Mixer,4,48230,Credit Card,Delivered,Hyderabad,192920
+500603,53:33.8,20337,Customer_20337,Male,47,Fashion,Mobile,3,25786,Credit Card,Delivered,Chennai,77358
+500604,02:19.4,17090,Customer_17090,Female,43,Sports,Mobile,2,11693,Cash on Delivery,Delivered,Chennai,23386
+500605,11:05.0,13581,Customer_13581,Male,50,Fashion,Lipstick,1,60908,Net Banking,Cancelled,Bangalore,60908
+500606,19:50.6,39487,Customer_39487,Female,56,Home & Kitchen,T-Shirt,1,18226,UPI,Returned,Pune,18226
+500607,28:36.3,49722,Customer_49722,Male,21,Home & Kitchen,Shoes,1,21186,Credit Card,Returned,Bangalore,21186
+500608,37:21.9,24613,Customer_24613,Male,46,Beauty,Mixer,4,40591,Credit Card,Delivered,Bangalore,162364
+500609,46:07.5,10505,Customer_10505,Female,54,Electronics,Mobile,4,14265,Credit Card,Delivered,Noida,57060
+500610,54:53.1,17209,Customer_17209,Female,45,Beauty,Headphones,1,54433,Credit Card,Delivered,Hyderabad,54433
+500611,03:38.7,34063,Customer_34063,Male,20,Fashion,Shoes,4,22267,Net Banking,Delivered,Chennai,89068
+500612,12:24.3,25353,Customer_25353,Male,26,Beauty,Watch,3,19007,Cash on Delivery,Delivered,Delhi,57021
+500613,21:09.9,20625,Customer_20625,Male,54,Beauty,Mobile,1,18371,UPI,Delivered,Pune,18371
+500614,29:55.5,39915,Customer_39915,Female,35,Fashion,Watch,3,28539,Net Banking,Delivered,Mumbai,85617
+500615,38:41.1,44300,Customer_44300,Male,55,Fashion,Watch,1,49969,Credit Card,Delivered,Mumbai,49969
+500616,47:26.7,21339,Customer_21339,Female,60,Sports,Mixer,1,38738,Net Banking,Delivered,Bangalore,38738
+500617,56:12.3,37042,Customer_37042,Female,59,Sports,Headphones,1,21255,Credit Card,Delivered,Gurgaon,21255
+500618,04:57.9,30344,Customer_30344,Female,54,Fashion,Laptop,4,26525,Debit Card,Delivered,Mumbai,106100
+500619,13:43.5,21820,Customer_21820,Female,54,Sports,Laptop,1,61268,Credit Card,Cancelled,Chennai,61268
+500620,22:29.1,13176,Customer_13176,Male,58,Sports,Mixer,2,59560,Credit Card,Cancelled,Gurgaon,119120
+500621,31:14.7,11450,Customer_11450,Female,63,Sports,Mixer,2,43508,Cash on Delivery,Returned,Mumbai,87016
+500622,40:00.3,26454,Customer_26454,Female,28,Beauty,Watch,4,50633,Credit Card,Delivered,Mumbai,202532
+500623,48:45.9,24360,Customer_24360,Male,27,Fashion,Lipstick,3,55918,Net Banking,Delivered,Bangalore,167754
+500624,57:31.5,24039,Customer_24039,Male,28,Sports,T-Shirt,3,32494,UPI,Delivered,Hyderabad,97482
+500625,06:17.1,44923,Customer_44923,Male,22,Fashion,Watch,1,56369,Net Banking,Delivered,Delhi,56369
+500626,15:02.7,33592,Customer_33592,Male,28,Home & Kitchen,T-Shirt,1,31300,Cash on Delivery,Delivered,Mumbai,31300
+500627,23:48.3,25192,Customer_25192,Male,54,Sports,Mixer,3,39265,Debit Card,Delivered,Bangalore,117795
+500628,32:33.9,40117,Customer_40117,Male,19,Electronics,Watch,2,65316,Credit Card,Cancelled,Delhi,130632
+500629,41:19.6,24915,Customer_24915,Male,29,Fashion,Headphones,4,44277,Debit Card,Delivered,Mumbai,177108
+500630,50:05.2,38427,Customer_38427,Male,36,Fashion,Headphones,2,31035,UPI,Cancelled,Delhi,62070
+500631,58:50.8,44261,Customer_44261,Female,43,Fashion,Headphones,2,48330,Credit Card,Delivered,Mumbai,96660
+500632,07:36.4,25233,Customer_25233,Male,35,Electronics,Mixer,1,43447,Cash on Delivery,Cancelled,Chennai,43447
+500633,16:22.0,16943,Customer_16943,Male,52,Home & Kitchen,Mobile,3,23672,Debit Card,Delivered,Mumbai,71016
+500634,25:07.6,42644,Customer_42644,Male,20,Sports,Watch,2,63065,Debit Card,Delivered,Noida,126130
+500635,33:53.2,18143,Customer_18143,Male,50,Sports,Shoes,3,16389,Net Banking,Delivered,Bangalore,49167
+500636,42:38.8,37501,Customer_37501,Male,19,Electronics,Headphones,3,56130,Cash on Delivery,Delivered,Hyderabad,168390
+500637,51:24.4,16007,Customer_16007,Female,32,Fashion,Mixer,3,25243,Net Banking,Delivered,Delhi,75729
+500638,00:10.0,32470,Customer_32470,Female,28,Beauty,T-Shirt,3,18784,Net Banking,Delivered,Mumbai,56352
+500639,08:55.6,23164,Customer_23164,Male,49,Fashion,Mixer,4,49288,Net Banking,Cancelled,Pune,197152
+500640,17:41.2,18866,Customer_18866,Male,61,Fashion,Mobile,2,51909,Debit Card,Delivered,Noida,103818
+500641,26:26.8,42585,Customer_42585,Male,57,Electronics,T-Shirt,1,14821,Cash on Delivery,Delivered,Chennai,14821
+500642,35:12.4,45368,Customer_45368,Female,57,Beauty,Laptop,1,18313,Debit Card,Delivered,Delhi,18313
+500643,43:58.0,23217,Customer_23217,Male,54,Fashion,T-Shirt,3,60245,UPI,Delivered,Bangalore,180735
+500644,52:43.6,49816,Customer_49816,Female,34,Sports,T-Shirt,1,4190,UPI,Delivered,Mumbai,4190
+500645,01:29.2,33074,Customer_33074,Male,63,Sports,Watch,2,31770,Net Banking,Delivered,Chennai,63540
+500646,10:14.8,25295,Customer_25295,Female,41,Home & Kitchen,Laptop,2,53637,Debit Card,Delivered,Mumbai,107274
+500647,19:00.4,26462,Customer_26462,Male,47,Sports,Mixer,2,65450,Credit Card,Returned,Mumbai,130900
+500648,27:46.0,17230,Customer_17230,Male,42,Fashion,Mobile,1,60572,Net Banking,Delivered,Noida,60572
+500649,36:31.6,33382,Customer_33382,Female,62,Fashion,Mobile,1,28927,Net Banking,Delivered,Noida,28927
+500650,45:17.2,14645,Customer_14645,Female,54,Fashion,Shoes,1,35491,UPI,Delivered,Chennai,35491
+500651,54:02.8,27165,Customer_27165,Female,28,Home & Kitchen,Laptop,1,49998,UPI,Delivered,Chennai,49998
+500652,02:48.5,12486,Customer_12486,Female,35,Electronics,Laptop,3,45941,Net Banking,Returned,Hyderabad,137823
+500653,11:34.1,27691,Customer_27691,Female,42,Sports,Headphones,3,43299,Debit Card,Delivered,Gurgaon,129897
+500654,20:19.7,49763,Customer_49763,Female,38,Home & Kitchen,Watch,2,11255,UPI,Delivered,Chennai,22510
+500655,29:05.3,36598,Customer_36598,Male,23,Electronics,Mobile,3,22442,Cash on Delivery,Delivered,Pune,67326
+500656,37:50.9,37387,Customer_37387,Female,35,Home & Kitchen,Mobile,2,34694,UPI,Delivered,Noida,69388
+500657,46:36.5,26868,Customer_26868,Male,45,Home & Kitchen,Shoes,2,50148,Credit Card,Delivered,Pune,100296
+500658,55:22.1,13597,Customer_13597,Female,35,Electronics,Shoes,2,3051,Credit Card,Delivered,Bangalore,6102
+500659,04:07.7,11770,Customer_11770,Male,49,Home & Kitchen,Lipstick,4,42802,UPI,Delivered,Mumbai,171208
+500660,12:53.3,42026,Customer_42026,Female,53,Beauty,T-Shirt,2,3547,Net Banking,Delivered,Mumbai,7094
+500661,21:38.9,49594,Customer_49594,Female,54,Electronics,Watch,1,6793,Net Banking,Delivered,Noida,6793
+500662,30:24.5,40316,Customer_40316,Female,31,Fashion,T-Shirt,4,14092,UPI,Delivered,Gurgaon,56368
+500663,39:10.1,44360,Customer_44360,Male,32,Fashion,T-Shirt,3,34404,Net Banking,Delivered,Bangalore,103212
+500664,47:55.7,38097,Customer_38097,Female,31,Beauty,Lipstick,4,46505,Cash on Delivery,Returned,Hyderabad,186020
+500665,56:41.3,46317,Customer_46317,Female,32,Home & Kitchen,Laptop,4,14912,Credit Card,Delivered,Pune,59648
+500666,05:26.9,21561,Customer_21561,Male,46,Sports,Watch,1,62414,Cash on Delivery,Returned,Mumbai,62414
+500667,14:12.5,27725,Customer_27725,Female,41,Home & Kitchen,Shoes,3,2347,Net Banking,Cancelled,Mumbai,7041
+500668,22:58.1,47298,Customer_47298,Female,39,Home & Kitchen,Headphones,1,2601,Debit Card,Delivered,Mumbai,2601
+500669,31:43.7,26563,Customer_26563,Male,33,Beauty,Mixer,3,62187,Credit Card,Delivered,Bangalore,186561
+500670,40:29.3,13745,Customer_13745,Male,28,Electronics,Lipstick,1,17261,Debit Card,Delivered,Hyderabad,17261
+500671,49:14.9,49131,Customer_49131,Female,26,Home & Kitchen,Headphones,4,11889,Debit Card,Delivered,Gurgaon,47556
+500672,58:00.5,47141,Customer_47141,Male,61,Sports,Watch,4,35772,UPI,Delivered,Delhi,143088
+500673,06:46.1,48197,Customer_48197,Female,23,Home & Kitchen,Headphones,1,3154,Debit Card,Delivered,Pune,3154
+500674,15:31.7,35127,Customer_35127,Female,23,Home & Kitchen,T-Shirt,3,26521,UPI,Delivered,Chennai,79563
+500675,24:17.4,26834,Customer_26834,Female,31,Electronics,Mobile,2,3701,Cash on Delivery,Delivered,Hyderabad,7402
+500676,33:03.0,34273,Customer_34273,Male,25,Beauty,Headphones,3,36209,Net Banking,Returned,Pune,108627
+500677,41:48.6,15941,Customer_15941,Male,60,Sports,Mobile,3,31540,Net Banking,Delivered,Chennai,94620
+500678,50:34.2,29546,Customer_29546,Female,39,Beauty,Laptop,1,63358,Net Banking,Delivered,Gurgaon,63358
+500679,59:19.8,21028,Customer_21028,Male,20,Fashion,Lipstick,3,23742,Debit Card,Delivered,Mumbai,71226
+500680,08:05.4,16111,Customer_16111,Female,59,Beauty,Headphones,1,39358,Cash on Delivery,Delivered,Delhi,39358
+500681,16:51.0,34129,Customer_34129,Male,47,Home & Kitchen,Watch,3,53180,UPI,Delivered,Gurgaon,159540
+500682,25:36.6,45883,Customer_45883,Male,58,Sports,Mobile,2,48380,Cash on Delivery,Delivered,Mumbai,96760
+500683,34:22.2,48704,Customer_48704,Male,49,Home & Kitchen,Mobile,3,34921,Debit Card,Delivered,Chennai,104763
+500684,43:07.8,47927,Customer_47927,Female,27,Home & Kitchen,Laptop,3,1001,Debit Card,Delivered,Gurgaon,3003
+500685,51:53.4,36619,Customer_36619,Male,58,Beauty,Mobile,2,55856,Net Banking,Cancelled,Mumbai,111712
+500686,00:39.0,37533,Customer_37533,Female,35,Home & Kitchen,Laptop,3,17852,Credit Card,Delivered,Mumbai,53556
+500687,09:24.6,10019,Customer_10019,Female,28,Sports,Mobile,3,1085,UPI,Returned,Noida,3255
+500688,18:10.2,11998,Customer_11998,Female,41,Fashion,Mobile,1,48718,Debit Card,Delivered,Delhi,48718
+500689,26:55.8,10473,Customer_10473,Male,50,Fashion,Watch,4,49121,UPI,Returned,Noida,196484
+500690,35:41.4,11320,Customer_11320,Female,52,Home & Kitchen,Headphones,4,10527,Credit Card,Returned,Gurgaon,42108
+500691,44:27.0,48755,Customer_48755,Male,41,Sports,Lipstick,3,43181,UPI,Delivered,Mumbai,129543
+500692,53:12.6,45968,Customer_45968,Male,30,Home & Kitchen,Headphones,4,67302,Net Banking,Delivered,Noida,269208
+500693,01:58.2,33846,Customer_33846,Female,39,Electronics,Headphones,3,56066,UPI,Delivered,Noida,168198
+500694,10:43.8,36087,Customer_36087,Female,26,Beauty,Lipstick,3,68738,Net Banking,Delivered,Mumbai,206214
+500695,19:29.4,46833,Customer_46833,Male,62,Electronics,Shoes,3,16241,Net Banking,Delivered,Gurgaon,48723
+500696,28:15.0,42933,Customer_42933,Male,23,Electronics,Watch,1,55661,Net Banking,Delivered,Bangalore,55661
+500697,37:00.6,14451,Customer_14451,Female,38,Sports,T-Shirt,4,41058,Debit Card,Delivered,Noida,164232
+500698,45:46.3,26512,Customer_26512,Female,62,Sports,Shoes,1,31073,Debit Card,Delivered,Noida,31073
+500699,54:31.9,22276,Customer_22276,Female,43,Fashion,Shoes,3,64281,Cash on Delivery,Delivered,Bangalore,192843
+500700,03:17.5,14335,Customer_14335,Male,63,Fashion,Shoes,1,24447,Cash on Delivery,Cancelled,Pune,24447
+500701,12:03.1,16815,Customer_16815,Female,48,Home & Kitchen,Lipstick,3,4106,Cash on Delivery,Delivered,Noida,12318
+500702,20:48.7,42742,Customer_42742,Female,32,Home & Kitchen,Mixer,2,59247,Debit Card,Delivered,Noida,118494
+500703,29:34.3,28440,Customer_28440,Female,46,Electronics,Mixer,3,54897,Credit Card,Delivered,Gurgaon,164691
+500704,38:19.9,45953,Customer_45953,Male,55,Fashion,Headphones,4,62485,Net Banking,Delivered,Chennai,249940
+500705,47:05.5,13123,Customer_13123,Female,54,Fashion,Shoes,4,42060,Net Banking,Delivered,Mumbai,168240
+500706,55:51.1,34571,Customer_34571,Female,61,Beauty,Lipstick,2,32810,Debit Card,Delivered,Hyderabad,65620
+500707,04:36.7,45628,Customer_45628,Female,64,Sports,Mixer,2,32190,UPI,Delivered,Gurgaon,64380
+500708,13:22.3,41658,Customer_41658,Male,35,Home & Kitchen,Mixer,3,59799,Debit Card,Delivered,Hyderabad,179397
+500709,22:07.9,47239,Customer_47239,Male,35,Beauty,Shoes,2,18263,Debit Card,Delivered,Delhi,36526
+500710,30:53.5,21859,Customer_21859,Male,57,Home & Kitchen,Mixer,3,32407,Net Banking,Delivered,Bangalore,97221
+500711,39:39.1,37314,Customer_37314,Male,29,Electronics,Watch,3,24881,Debit Card,Returned,Delhi,74643
+500712,48:24.7,40034,Customer_40034,Female,22,Home & Kitchen,Watch,2,1538,Credit Card,Delivered,Pune,3076
+500713,57:10.3,36579,Customer_36579,Female,62,Home & Kitchen,Laptop,4,60694,Net Banking,Delivered,Delhi,242776
+500714,05:55.9,14862,Customer_14862,Female,53,Fashion,Mobile,4,34111,Net Banking,Cancelled,Hyderabad,136444
+500715,14:41.5,22694,Customer_22694,Male,18,Electronics,Mixer,2,8622,UPI,Returned,Mumbai,17244
+500716,23:27.1,31167,Customer_31167,Male,61,Sports,Shoes,2,7639,Net Banking,Delivered,Chennai,15278
+500717,32:12.7,36797,Customer_36797,Female,26,Home & Kitchen,T-Shirt,2,55663,Net Banking,Delivered,Mumbai,111326
+500718,40:58.3,27116,Customer_27116,Male,19,Beauty,Shoes,3,24893,Net Banking,Returned,Mumbai,74679
+500719,49:43.9,21402,Customer_21402,Male,63,Sports,Lipstick,2,7449,Debit Card,Delivered,Noida,14898
+500720,58:29.5,49301,Customer_49301,Male,39,Sports,Headphones,2,53149,Net Banking,Delivered,Chennai,106298
+500721,07:15.2,48990,Customer_48990,Male,50,Beauty,Mixer,1,14555,Net Banking,Delivered,Noida,14555
+500722,16:00.8,20392,Customer_20392,Female,21,Fashion,Mobile,2,19396,Debit Card,Delivered,Hyderabad,38792
+500723,24:46.4,24974,Customer_24974,Female,54,Electronics,Headphones,4,18596,Cash on Delivery,Delivered,Delhi,74384
+500724,33:32.0,39761,Customer_39761,Female,38,Sports,Lipstick,4,5167,Debit Card,Delivered,Mumbai,20668
+500725,42:17.6,42723,Customer_42723,Male,49,Home & Kitchen,Watch,2,41980,Net Banking,Delivered,Bangalore,83960
+500726,51:03.2,13488,Customer_13488,Male,30,Home & Kitchen,T-Shirt,1,52981,Debit Card,Delivered,Noida,52981
+500727,59:48.8,19858,Customer_19858,Male,42,Fashion,Lipstick,4,47302,Cash on Delivery,Delivered,Bangalore,189208
+500728,08:34.4,26469,Customer_26469,Male,26,Sports,Watch,3,5732,UPI,Delivered,Mumbai,17196
+500729,17:20.0,48863,Customer_48863,Male,30,Beauty,Lipstick,2,37183,Net Banking,Delivered,Gurgaon,74366
+500730,26:05.6,15354,Customer_15354,Male,35,Beauty,Watch,2,39787,Cash on Delivery,Delivered,Gurgaon,79574
+500731,34:51.2,41799,Customer_41799,Female,32,Sports,Watch,3,12088,Debit Card,Delivered,Hyderabad,36264
+500732,43:36.8,15588,Customer_15588,Male,51,Fashion,Mobile,3,49796,Net Banking,Delivered,Gurgaon,149388
+500733,52:22.4,18604,Customer_18604,Female,32,Beauty,Laptop,4,2764,UPI,Cancelled,Gurgaon,11056
+500734,01:08.0,28171,Customer_28171,Male,46,Electronics,Mobile,2,69410,Cash on Delivery,Cancelled,Hyderabad,138820
+500735,09:53.6,24941,Customer_24941,Female,40,Sports,T-Shirt,4,54827,Cash on Delivery,Delivered,Delhi,219308
+500736,18:39.2,20168,Customer_20168,Female,54,Electronics,Lipstick,3,59861,Net Banking,Delivered,Hyderabad,179583
+500737,27:24.8,48221,Customer_48221,Female,51,Fashion,Laptop,2,22585,Cash on Delivery,Returned,Bangalore,45170
+500738,36:10.4,45852,Customer_45852,Female,32,Electronics,Laptop,2,28855,Credit Card,Delivered,Pune,57710
+500739,44:56.0,34395,Customer_34395,Female,47,Home & Kitchen,Mobile,4,25029,Cash on Delivery,Delivered,Pune,100116
+500740,53:41.6,44968,Customer_44968,Female,21,Sports,Laptop,2,50949,Cash on Delivery,Delivered,Chennai,101898
+500741,02:27.2,49130,Customer_49130,Male,27,Sports,Lipstick,1,31787,Cash on Delivery,Delivered,Bangalore,31787
+500742,11:12.8,35043,Customer_35043,Female,49,Sports,Headphones,4,35499,UPI,Delivered,Hyderabad,141996
+500743,19:58.4,35456,Customer_35456,Female,42,Sports,Laptop,4,7231,UPI,Returned,Hyderabad,28924
+500744,28:44.1,21055,Customer_21055,Male,34,Home & Kitchen,Headphones,1,69807,Credit Card,Delivered,Pune,69807
+500745,37:29.7,23846,Customer_23846,Male,45,Electronics,Headphones,4,62313,UPI,Delivered,Gurgaon,249252
+500746,46:15.3,48836,Customer_48836,Female,60,Beauty,Watch,2,36046,UPI,Returned,Hyderabad,72092
+500747,55:00.9,27043,Customer_27043,Male,21,Sports,Lipstick,4,67474,Credit Card,Delivered,Delhi,269896
+500748,03:46.5,35752,Customer_35752,Male,21,Sports,Lipstick,3,8651,Credit Card,Delivered,Chennai,25953
+500749,12:32.1,30014,Customer_30014,Female,54,Fashion,Mixer,4,46904,UPI,Delivered,Mumbai,187616
+500750,21:17.7,41285,Customer_41285,Female,21,Electronics,Watch,2,21985,Credit Card,Delivered,Gurgaon,43970
+500751,30:03.3,22218,Customer_22218,Male,33,Fashion,Mobile,4,35928,Cash on Delivery,Delivered,Delhi,143712
+500752,38:48.9,45262,Customer_45262,Female,48,Home & Kitchen,Watch,4,36271,Credit Card,Delivered,Bangalore,145084
+500753,47:34.5,43097,Customer_43097,Male,49,Electronics,Laptop,4,24944,Credit Card,Delivered,Mumbai,99776
+500754,56:20.1,42706,Customer_42706,Male,38,Electronics,Mobile,4,13680,Cash on Delivery,Delivered,Chennai,54720
+500755,05:05.7,49127,Customer_49127,Female,64,Fashion,T-Shirt,1,60951,UPI,Returned,Chennai,60951
+500756,13:51.3,49170,Customer_49170,Male,20,Home & Kitchen,Headphones,3,59944,Cash on Delivery,Delivered,Chennai,179832
+500757,22:36.9,32601,Customer_32601,Male,19,Electronics,Watch,2,13114,Debit Card,Cancelled,Pune,26228
+500758,31:22.5,22744,Customer_22744,Female,49,Fashion,Laptop,2,66628,UPI,Delivered,Mumbai,133256
+500759,40:08.1,20097,Customer_20097,Male,56,Electronics,Laptop,1,16982,Net Banking,Delivered,Pune,16982
+500760,48:53.7,46568,Customer_46568,Female,35,Sports,Headphones,3,67236,Cash on Delivery,Delivered,Mumbai,201708
+500761,57:39.3,29534,Customer_29534,Female,19,Fashion,Headphones,4,58379,Net Banking,Returned,Hyderabad,233516
+500762,06:24.9,19023,Customer_19023,Male,56,Sports,Watch,1,38477,Credit Card,Cancelled,Pune,38477
+500763,15:10.5,41275,Customer_41275,Male,51,Home & Kitchen,Mobile,3,68896,UPI,Returned,Hyderabad,206688
+500764,23:56.1,29752,Customer_29752,Male,19,Home & Kitchen,Watch,1,28867,Net Banking,Delivered,Noida,28867
+500765,32:41.7,16660,Customer_16660,Female,48,Beauty,Mobile,2,25649,Debit Card,Delivered,Gurgaon,51298
+500766,41:27.4,31946,Customer_31946,Female,24,Fashion,Mixer,2,14555,Debit Card,Delivered,Noida,29110
+500767,50:13.0,35516,Customer_35516,Male,59,Electronics,Laptop,4,58314,Net Banking,Delivered,Chennai,233256
+500768,58:58.6,46811,Customer_46811,Male,42,Sports,Mixer,2,68132,Net Banking,Delivered,Pune,136264
+500769,07:44.2,48732,Customer_48732,Male,56,Home & Kitchen,Mobile,1,42111,Cash on Delivery,Delivered,Noida,42111
+500770,16:29.8,14419,Customer_14419,Male,55,Beauty,Mixer,2,36354,Credit Card,Delivered,Bangalore,72708
+500771,25:15.4,26988,Customer_26988,Male,43,Fashion,Mobile,2,63371,Net Banking,Delivered,Chennai,126742
+500772,34:01.0,33579,Customer_33579,Female,35,Sports,Laptop,1,11563,Credit Card,Delivered,Chennai,11563
+500773,42:46.6,41684,Customer_41684,Male,57,Fashion,Shoes,4,36366,UPI,Delivered,Gurgaon,145464
+500774,51:32.2,29488,Customer_29488,Male,47,Beauty,Laptop,1,20884,UPI,Delivered,Gurgaon,20884
+500775,00:17.8,14484,Customer_14484,Male,63,Sports,Watch,2,18073,Debit Card,Returned,Pune,36146
+500776,09:03.4,31175,Customer_31175,Male,42,Home & Kitchen,T-Shirt,4,13746,Debit Card,Delivered,Hyderabad,54984
+500777,17:49.0,17298,Customer_17298,Male,46,Fashion,Shoes,2,68510,Cash on Delivery,Delivered,Hyderabad,137020
+500778,26:34.6,43490,Customer_43490,Female,56,Beauty,Mobile,3,1561,Net Banking,Delivered,Hyderabad,4683
+500779,35:20.2,37785,Customer_37785,Male,51,Sports,Watch,3,45134,Credit Card,Delivered,Bangalore,135402
+500780,44:05.8,47927,Customer_47927,Male,53,Fashion,Laptop,3,37032,UPI,Delivered,Noida,111096
+500781,52:51.4,36445,Customer_36445,Female,25,Beauty,Laptop,1,3070,Net Banking,Delivered,Gurgaon,3070
+500782,01:37.0,19034,Customer_19034,Male,19,Home & Kitchen,T-Shirt,2,55022,Cash on Delivery,Delivered,Mumbai,110044
+500783,10:22.6,30486,Customer_30486,Male,44,Fashion,Headphones,4,51867,Net Banking,Delivered,Hyderabad,207468
+500784,19:08.2,30944,Customer_30944,Female,43,Electronics,Watch,1,23034,Debit Card,Delivered,Hyderabad,23034
+500785,27:53.8,21349,Customer_21349,Male,58,Electronics,Lipstick,2,51442,Credit Card,Delivered,Bangalore,102884
+500786,36:39.4,17200,Customer_17200,Female,61,Sports,Headphones,3,64477,Cash on Delivery,Cancelled,Delhi,193431
+500787,45:25.0,45291,Customer_45291,Female,39,Sports,Shoes,2,34476,Cash on Delivery,Delivered,Gurgaon,68952
+500788,54:10.6,20248,Customer_20248,Male,51,Sports,Laptop,4,68803,Net Banking,Delivered,Hyderabad,275212
+500789,02:56.3,35519,Customer_35519,Male,21,Fashion,T-Shirt,3,13912,UPI,Delivered,Delhi,41736
+500790,11:41.9,28892,Customer_28892,Female,41,Fashion,Shoes,4,47527,Net Banking,Delivered,Mumbai,190108
+500791,20:27.5,21091,Customer_21091,Male,19,Electronics,Mixer,3,55322,Net Banking,Delivered,Bangalore,165966
+500792,29:13.1,34877,Customer_34877,Male,18,Sports,Mobile,4,64302,UPI,Returned,Bangalore,257208
+500793,37:58.7,42294,Customer_42294,Female,64,Fashion,Shoes,3,14970,Cash on Delivery,Delivered,Noida,44910
+500794,46:44.3,15296,Customer_15296,Female,32,Electronics,Laptop,4,13057,UPI,Cancelled,Mumbai,52228
+500795,55:29.9,37099,Customer_37099,Male,48,Electronics,T-Shirt,2,31216,Net Banking,Delivered,Delhi,62432
+500796,04:15.5,37989,Customer_37989,Female,46,Beauty,Laptop,2,14724,Debit Card,Cancelled,Chennai,29448
+500797,13:01.1,38432,Customer_38432,Male,19,Electronics,Watch,1,23005,UPI,Cancelled,Gurgaon,23005
+500798,21:46.7,10450,Customer_10450,Female,51,Fashion,Watch,1,22792,Net Banking,Delivered,Bangalore,22792
+500799,30:32.3,19269,Customer_19269,Female,19,Beauty,Watch,3,9216,Cash on Delivery,Delivered,Hyderabad,27648
+500800,39:17.9,49622,Customer_49622,Female,57,Fashion,Laptop,1,64325,Net Banking,Delivered,Chennai,64325
+500801,48:03.5,39725,Customer_39725,Male,35,Beauty,Watch,3,13070,Debit Card,Delivered,Bangalore,39210
+500802,56:49.1,11004,Customer_11004,Female,18,Fashion,Laptop,3,50603,Debit Card,Delivered,Hyderabad,151809
+500803,05:34.7,47102,Customer_47102,Female,64,Electronics,Mixer,1,66243,Cash on Delivery,Delivered,Mumbai,66243
+500804,14:20.3,32923,Customer_32923,Female,38,Beauty,Mixer,3,67511,Credit Card,Returned,Bangalore,202533
+500805,23:05.9,13218,Customer_13218,Male,62,Beauty,Laptop,2,41423,UPI,Delivered,Chennai,82846
+500806,31:51.5,32738,Customer_32738,Female,46,Sports,Lipstick,1,11916,UPI,Delivered,Hyderabad,11916
+500807,40:37.1,24767,Customer_24767,Female,60,Fashion,T-Shirt,3,51084,Net Banking,Delivered,Mumbai,153252
+500808,49:22.7,37379,Customer_37379,Male,52,Home & Kitchen,Lipstick,4,40928,Credit Card,Delivered,Gurgaon,163712
+500809,58:08.3,30801,Customer_30801,Male,59,Home & Kitchen,Mobile,1,20814,UPI,Cancelled,Gurgaon,20814
+500810,06:53.9,23832,Customer_23832,Male,61,Beauty,Laptop,2,48746,UPI,Delivered,Chennai,97492
+500811,15:39.5,22149,Customer_22149,Male,33,Beauty,T-Shirt,3,38802,UPI,Delivered,Noida,116406
+500812,24:25.2,42228,Customer_42228,Male,39,Home & Kitchen,Headphones,3,4510,UPI,Delivered,Bangalore,13530
+500813,33:10.8,30963,Customer_30963,Male,52,Home & Kitchen,Watch,1,17452,Cash on Delivery,Delivered,Delhi,17452
+500814,41:56.4,22344,Customer_22344,Male,57,Electronics,Headphones,1,22191,Debit Card,Returned,Delhi,22191
+500815,50:42.0,39929,Customer_39929,Male,50,Home & Kitchen,Shoes,2,53085,UPI,Delivered,Gurgaon,106170
+500816,59:27.6,25667,Customer_25667,Male,53,Home & Kitchen,Lipstick,2,26258,Cash on Delivery,Delivered,Bangalore,52516
+500817,08:13.2,30317,Customer_30317,Male,33,Beauty,Lipstick,3,55680,Credit Card,Delivered,Mumbai,167040
+500818,16:58.8,36730,Customer_36730,Male,62,Electronics,Mixer,1,57729,Cash on Delivery,Delivered,Gurgaon,57729
+500819,25:44.4,48115,Customer_48115,Female,18,Fashion,Shoes,1,60596,Credit Card,Returned,Bangalore,60596
+500820,34:30.0,12004,Customer_12004,Female,62,Home & Kitchen,Watch,2,43472,UPI,Delivered,Gurgaon,86944
+500821,43:15.6,33718,Customer_33718,Female,50,Sports,T-Shirt,2,16364,Cash on Delivery,Delivered,Bangalore,32728
+500822,52:01.2,25834,Customer_25834,Female,19,Electronics,T-Shirt,1,66149,Net Banking,Delivered,Delhi,66149
+500823,00:46.8,38599,Customer_38599,Female,53,Electronics,Laptop,4,63040,Cash on Delivery,Delivered,Pune,252160
+500824,09:32.4,19477,Customer_19477,Male,23,Fashion,Laptop,2,17129,UPI,Delivered,Hyderabad,34258
+500825,18:18.0,24124,Customer_24124,Male,56,Beauty,Mobile,1,60556,Cash on Delivery,Returned,Bangalore,60556
+500826,27:03.6,29998,Customer_29998,Female,54,Beauty,Mobile,2,23243,UPI,Delivered,Bangalore,46486
+500827,35:49.2,28906,Customer_28906,Male,24,Beauty,Mobile,3,47941,Credit Card,Returned,Hyderabad,143823
+500828,44:34.8,15537,Customer_15537,Female,61,Sports,Mixer,3,28966,UPI,Delivered,Pune,86898
+500829,53:20.4,23720,Customer_23720,Female,36,Beauty,Laptop,4,26344,Credit Card,Delivered,Bangalore,105376
+500830,02:06.0,41870,Customer_41870,Female,29,Sports,Headphones,4,4528,Debit Card,Delivered,Hyderabad,18112
+500831,10:51.6,35644,Customer_35644,Female,59,Fashion,Watch,2,63873,UPI,Cancelled,Gurgaon,127746
+500832,19:37.2,36879,Customer_36879,Female,55,Sports,T-Shirt,1,23520,Cash on Delivery,Returned,Chennai,23520
+500833,28:22.8,21635,Customer_21635,Male,43,Fashion,Watch,3,65370,UPI,Delivered,Delhi,196110
+500834,37:08.4,10285,Customer_10285,Male,56,Beauty,Laptop,4,42105,Debit Card,Delivered,Noida,168420
+500835,45:54.1,29521,Customer_29521,Male,33,Fashion,Mixer,2,26369,Net Banking,Returned,Bangalore,52738
+500836,54:39.7,46607,Customer_46607,Male,48,Beauty,Headphones,1,33188,Debit Card,Delivered,Delhi,33188
+500837,03:25.3,14923,Customer_14923,Female,23,Home & Kitchen,Headphones,1,19004,UPI,Delivered,Pune,19004
+500838,12:10.9,49220,Customer_49220,Female,32,Sports,Mixer,2,47054,Cash on Delivery,Cancelled,Mumbai,94108
+500839,20:56.5,18087,Customer_18087,Female,42,Fashion,Headphones,1,50114,Debit Card,Delivered,Gurgaon,50114
+500840,29:42.1,44827,Customer_44827,Male,31,Beauty,Shoes,3,17478,Net Banking,Delivered,Pune,52434
+500841,38:27.7,46716,Customer_46716,Female,21,Home & Kitchen,Mixer,2,42526,Cash on Delivery,Delivered,Hyderabad,85052
+500842,47:13.3,23856,Customer_23856,Male,19,Electronics,Laptop,1,20243,UPI,Delivered,Delhi,20243
+500843,55:58.9,20250,Customer_20250,Female,28,Beauty,Laptop,3,4018,Cash on Delivery,Delivered,Mumbai,12054
+500844,04:44.5,15224,Customer_15224,Female,39,Sports,T-Shirt,1,12275,UPI,Cancelled,Gurgaon,12275
+500845,13:30.1,23965,Customer_23965,Female,22,Sports,Lipstick,3,29517,Cash on Delivery,Delivered,Hyderabad,88551
+500846,22:15.7,42074,Customer_42074,Male,57,Sports,Lipstick,4,66997,Net Banking,Delivered,Pune,267988
+500847,31:01.3,19564,Customer_19564,Male,20,Home & Kitchen,Headphones,4,29114,Credit Card,Delivered,Bangalore,116456
+500848,39:46.9,26598,Customer_26598,Male,28,Home & Kitchen,Headphones,2,4824,Credit Card,Delivered,Delhi,9648
+500849,48:32.5,46487,Customer_46487,Male,58,Home & Kitchen,Headphones,3,22094,Debit Card,Returned,Mumbai,66282
+500850,57:18.1,13063,Customer_13063,Male,58,Electronics,Shoes,2,55248,Credit Card,Cancelled,Bangalore,110496
+500851,06:03.7,20428,Customer_20428,Female,56,Fashion,Laptop,4,23716,Credit Card,Delivered,Bangalore,94864
+500852,14:49.3,19993,Customer_19993,Male,20,Beauty,Lipstick,3,41155,Debit Card,Delivered,Hyderabad,123465
+500853,23:34.9,47302,Customer_47302,Female,48,Home & Kitchen,Watch,1,64572,Net Banking,Cancelled,Mumbai,64572
+500854,32:20.5,34083,Customer_34083,Female,33,Beauty,Mobile,3,48546,Cash on Delivery,Delivered,Chennai,145638
+500855,41:06.1,13140,Customer_13140,Male,45,Beauty,Mixer,4,23628,Credit Card,Delivered,Noida,94512
+500856,49:51.7,37663,Customer_37663,Male,40,Fashion,T-Shirt,4,57620,Debit Card,Delivered,Hyderabad,230480
+500857,58:37.3,22309,Customer_22309,Male,29,Sports,Mobile,2,50626,Net Banking,Returned,Bangalore,101252
+500858,07:23.0,41724,Customer_41724,Female,59,Fashion,Laptop,1,32726,Cash on Delivery,Delivered,Pune,32726
+500859,16:08.6,28813,Customer_28813,Female,36,Sports,Headphones,3,65978,Debit Card,Delivered,Hyderabad,197934
+500860,24:54.2,49894,Customer_49894,Female,51,Fashion,Lipstick,2,11467,UPI,Delivered,Chennai,22934
+500861,33:39.8,43034,Customer_43034,Male,54,Beauty,Watch,2,13923,UPI,Delivered,Noida,27846
+500862,42:25.4,19155,Customer_19155,Male,36,Sports,Lipstick,4,67940,Debit Card,Delivered,Chennai,271760
+500863,51:11.0,25724,Customer_25724,Female,50,Beauty,Headphones,2,69955,UPI,Delivered,Chennai,139910
+500864,59:56.6,23201,Customer_23201,Male,27,Beauty,Shoes,3,723,Debit Card,Delivered,Hyderabad,2169
+500865,08:42.2,28252,Customer_28252,Male,51,Fashion,T-Shirt,1,4018,Credit Card,Delivered,Gurgaon,4018
+500866,17:27.8,31661,Customer_31661,Female,45,Beauty,T-Shirt,3,37440,Credit Card,Delivered,Noida,112320
+500867,26:13.4,43515,Customer_43515,Female,52,Home & Kitchen,Shoes,4,44557,Net Banking,Delivered,Pune,178228
+500868,34:59.0,25395,Customer_25395,Female,64,Electronics,Watch,2,50813,Credit Card,Delivered,Pune,101626
+500869,43:44.6,32227,Customer_32227,Female,46,Sports,Lipstick,4,15865,Cash on Delivery,Delivered,Pune,63460
+500870,52:30.2,13871,Customer_13871,Female,27,Electronics,Laptop,1,65832,Cash on Delivery,Delivered,Noida,65832
+500871,01:15.8,38225,Customer_38225,Female,27,Sports,Mobile,4,29043,Credit Card,Delivered,Hyderabad,116172
+500872,10:01.4,47582,Customer_47582,Female,30,Beauty,Mobile,3,48097,UPI,Cancelled,Gurgaon,144291
+500873,18:47.0,15395,Customer_15395,Female,25,Home & Kitchen,Shoes,1,45251,Net Banking,Delivered,Gurgaon,45251
+500874,27:32.6,28599,Customer_28599,Male,62,Home & Kitchen,Watch,4,55112,Net Banking,Delivered,Delhi,220448
+500875,36:18.2,47109,Customer_47109,Female,27,Fashion,Shoes,3,5314,Debit Card,Delivered,Noida,15942
+500876,45:03.8,43492,Customer_43492,Female,48,Home & Kitchen,Lipstick,2,48494,Net Banking,Delivered,Delhi,96988
+500877,53:49.4,49877,Customer_49877,Male,44,Beauty,Laptop,2,22205,Debit Card,Returned,Bangalore,44410
+500878,02:35.0,41214,Customer_41214,Female,40,Electronics,T-Shirt,3,66793,Debit Card,Delivered,Mumbai,200379
+500879,11:20.6,43513,Customer_43513,Male,42,Fashion,Lipstick,3,6606,Cash on Delivery,Delivered,Hyderabad,19818
+500880,20:06.2,26740,Customer_26740,Male,61,Beauty,Headphones,2,52691,Debit Card,Cancelled,Mumbai,105382
+500881,28:51.9,46422,Customer_46422,Female,31,Electronics,Lipstick,1,61193,Credit Card,Delivered,Delhi,61193
+500882,37:37.5,33072,Customer_33072,Female,56,Home & Kitchen,Shoes,2,42130,Credit Card,Cancelled,Mumbai,84260
+500883,46:23.1,37708,Customer_37708,Female,57,Electronics,T-Shirt,4,66318,Net Banking,Delivered,Gurgaon,265272
+500884,55:08.7,44115,Customer_44115,Male,51,Home & Kitchen,Mobile,2,34137,Cash on Delivery,Delivered,Bangalore,68274
+500885,03:54.3,45452,Customer_45452,Female,19,Fashion,Headphones,2,33482,Debit Card,Delivered,Chennai,66964
+500886,12:39.9,34826,Customer_34826,Male,50,Fashion,Mixer,3,46108,Credit Card,Delivered,Delhi,138324
+500887,21:25.5,44749,Customer_44749,Male,26,Sports,Shoes,3,26289,Cash on Delivery,Returned,Bangalore,78867
+500888,30:11.1,44813,Customer_44813,Female,22,Home & Kitchen,Watch,3,51877,UPI,Delivered,Delhi,155631
+500889,38:56.7,17369,Customer_17369,Male,26,Fashion,Lipstick,2,37750,UPI,Delivered,Delhi,75500
+500890,47:42.3,35566,Customer_35566,Male,21,Sports,Laptop,4,45842,Net Banking,Delivered,Chennai,183368
+500891,56:27.9,25429,Customer_25429,Male,63,Fashion,Mixer,1,38462,Net Banking,Delivered,Gurgaon,38462
+500892,05:13.5,16695,Customer_16695,Male,47,Home & Kitchen,Watch,2,48249,Cash on Delivery,Delivered,Mumbai,96498
+500893,13:59.1,49229,Customer_49229,Male,30,Fashion,Mobile,4,57249,UPI,Delivered,Gurgaon,228996
+500894,22:44.7,15218,Customer_15218,Female,34,Home & Kitchen,Headphones,1,3336,Debit Card,Delivered,Mumbai,3336
+500895,31:30.3,18695,Customer_18695,Male,63,Home & Kitchen,Lipstick,1,52675,Cash on Delivery,Returned,Delhi,52675
+500896,40:15.9,12826,Customer_12826,Female,61,Beauty,T-Shirt,2,7620,Net Banking,Delivered,Bangalore,15240
+500897,49:01.5,43600,Customer_43600,Female,20,Home & Kitchen,Shoes,2,59843,Net Banking,Delivered,Delhi,119686
+500898,57:47.1,38437,Customer_38437,Female,57,Electronics,Mixer,3,29389,Net Banking,Delivered,Gurgaon,88167
+500899,06:32.7,12468,Customer_12468,Male,47,Home & Kitchen,Lipstick,1,28037,Debit Card,Delivered,Noida,28037
+500900,15:18.3,33992,Customer_33992,Female,18,Sports,Mobile,2,58378,Net Banking,Delivered,Noida,116756
+500901,24:03.9,41476,Customer_41476,Female,60,Electronics,Watch,3,12050,Cash on Delivery,Delivered,Bangalore,36150
+500902,32:49.5,15806,Customer_15806,Male,41,Beauty,Lipstick,3,32448,UPI,Delivered,Delhi,97344
+500903,41:35.2,43885,Customer_43885,Female,37,Beauty,Laptop,1,9918,Cash on Delivery,Delivered,Chennai,9918
+500904,50:20.8,48329,Customer_48329,Male,38,Fashion,Mobile,4,65062,Cash on Delivery,Delivered,Bangalore,260248
+500905,59:06.4,13963,Customer_13963,Female,22,Home & Kitchen,Watch,2,34626,Credit Card,Cancelled,Chennai,69252
+500906,07:52.0,20757,Customer_20757,Male,41,Home & Kitchen,Mobile,3,7488,Debit Card,Delivered,Chennai,22464
+500907,16:37.6,48608,Customer_48608,Male,44,Home & Kitchen,Mixer,3,24411,Cash on Delivery,Delivered,Hyderabad,73233
+500908,25:23.2,10972,Customer_10972,Male,18,Electronics,Mobile,2,42578,Credit Card,Returned,Hyderabad,85156
+500909,34:08.8,42800,Customer_42800,Female,49,Beauty,Shoes,1,56645,Cash on Delivery,Delivered,Noida,56645
+500910,42:54.4,43509,Customer_43509,Female,64,Fashion,Laptop,1,13490,Net Banking,Delivered,Hyderabad,13490
+500911,51:40.0,28869,Customer_28869,Female,41,Fashion,Mobile,4,35977,Credit Card,Cancelled,Hyderabad,143908
+500912,00:25.6,17419,Customer_17419,Male,45,Fashion,T-Shirt,3,34955,Net Banking,Delivered,Mumbai,104865
+500913,09:11.2,19812,Customer_19812,Male,63,Fashion,T-Shirt,4,12581,UPI,Delivered,Gurgaon,50324
+500914,17:56.8,31360,Customer_31360,Male,50,Electronics,Shoes,1,41151,UPI,Delivered,Gurgaon,41151
+500915,26:42.4,22363,Customer_22363,Female,51,Beauty,Lipstick,2,14177,Net Banking,Delivered,Delhi,28354
+500916,35:28.0,46423,Customer_46423,Male,23,Home & Kitchen,Lipstick,4,63077,Net Banking,Delivered,Pune,252308
+500917,44:13.6,18378,Customer_18378,Male,55,Electronics,Headphones,1,24468,Net Banking,Delivered,Gurgaon,24468
+500918,52:59.2,30255,Customer_30255,Male,26,Fashion,Mobile,2,766,Net Banking,Delivered,Mumbai,1532
+500919,01:44.8,40820,Customer_40820,Male,49,Beauty,Headphones,2,50187,Net Banking,Returned,Hyderabad,100374
+500920,10:30.4,40145,Customer_40145,Male,37,Electronics,Headphones,2,35149,UPI,Delivered,Mumbai,70298
+500921,19:16.0,20023,Customer_20023,Female,47,Fashion,Watch,3,23495,Cash on Delivery,Cancelled,Noida,70485
+500922,28:01.6,43683,Customer_43683,Male,35,Fashion,Mixer,3,29535,UPI,Delivered,Gurgaon,88605
+500923,36:47.2,10992,Customer_10992,Female,23,Home & Kitchen,Lipstick,2,66621,Credit Card,Delivered,Mumbai,133242
+500924,45:32.8,37123,Customer_37123,Female,45,Sports,T-Shirt,3,7485,UPI,Delivered,Mumbai,22455
+500925,54:18.4,31344,Customer_31344,Male,49,Beauty,Shoes,1,26798,Credit Card,Returned,Gurgaon,26798
+500926,03:04.1,24138,Customer_24138,Female,63,Sports,Watch,3,35394,Cash on Delivery,Delivered,Delhi,106182
+500927,11:49.7,46210,Customer_46210,Female,50,Electronics,Laptop,1,48587,Cash on Delivery,Delivered,Noida,48587
+500928,20:35.3,13315,Customer_13315,Female,33,Home & Kitchen,Headphones,4,62782,Net Banking,Returned,Bangalore,251128
+500929,29:20.9,24261,Customer_24261,Male,52,Electronics,Shoes,4,53267,Net Banking,Delivered,Mumbai,213068
+500930,38:06.5,41934,Customer_41934,Female,55,Home & Kitchen,Mixer,2,51458,Cash on Delivery,Delivered,Hyderabad,102916
+500931,46:52.1,33649,Customer_33649,Male,62,Sports,Watch,4,64731,Net Banking,Delivered,Gurgaon,258924
+500932,55:37.7,49579,Customer_49579,Male,29,Beauty,Headphones,2,30413,UPI,Delivered,Noida,60826
+500933,04:23.3,46659,Customer_46659,Male,32,Beauty,Headphones,3,7408,UPI,Delivered,Mumbai,22224
+500934,13:08.9,15111,Customer_15111,Female,50,Electronics,Headphones,2,24135,Debit Card,Delivered,Hyderabad,48270
+500935,21:54.5,17445,Customer_17445,Female,46,Fashion,T-Shirt,2,36344,Debit Card,Delivered,Mumbai,72688
+500936,30:40.1,27147,Customer_27147,Female,58,Electronics,Mobile,1,68763,Cash on Delivery,Cancelled,Pune,68763
+500937,39:25.7,38699,Customer_38699,Female,20,Electronics,Headphones,1,982,UPI,Cancelled,Gurgaon,982
+500938,48:11.3,29394,Customer_29394,Female,35,Electronics,Mixer,4,56693,Debit Card,Delivered,Mumbai,226772
+500939,56:56.9,47821,Customer_47821,Male,21,Electronics,Laptop,2,53438,Net Banking,Delivered,Chennai,106876
+500940,05:42.5,47331,Customer_47331,Female,45,Beauty,Watch,1,60982,Debit Card,Delivered,Delhi,60982
+500941,14:28.1,39415,Customer_39415,Male,35,Sports,Watch,1,69881,Net Banking,Delivered,Chennai,69881
+500942,23:13.7,49228,Customer_49228,Male,18,Beauty,Shoes,4,41682,Credit Card,Delivered,Hyderabad,166728
+500943,31:59.3,35970,Customer_35970,Female,25,Home & Kitchen,Watch,1,18544,Cash on Delivery,Cancelled,Mumbai,18544
+500944,40:44.9,12623,Customer_12623,Female,57,Fashion,Watch,3,47435,Credit Card,Delivered,Hyderabad,142305
+500945,49:30.5,23811,Customer_23811,Male,51,Fashion,Watch,1,30783,Net Banking,Delivered,Chennai,30783
+500946,58:16.1,21256,Customer_21256,Male,29,Fashion,Lipstick,2,30562,UPI,Delivered,Noida,61124
+500947,07:01.7,21943,Customer_21943,Female,26,Beauty,Mixer,1,22118,Cash on Delivery,Delivered,Gurgaon,22118
+500948,15:47.3,39336,Customer_39336,Male,46,Electronics,Lipstick,2,66169,Debit Card,Delivered,Mumbai,132338
+500949,24:33.0,45397,Customer_45397,Male,57,Beauty,Laptop,2,43883,Net Banking,Returned,Chennai,87766
+500950,33:18.6,44502,Customer_44502,Male,29,Fashion,Mobile,3,5077,UPI,Delivered,Hyderabad,15231
+500951,42:04.2,24526,Customer_24526,Female,45,Electronics,Mixer,3,14911,UPI,Delivered,Mumbai,44733
+500952,50:49.8,11475,Customer_11475,Male,52,Sports,Shoes,4,15463,Net Banking,Delivered,Delhi,61852
+500953,59:35.4,47624,Customer_47624,Male,38,Sports,Mixer,2,67995,Cash on Delivery,Delivered,Gurgaon,135990
+500954,08:21.0,16821,Customer_16821,Male,23,Electronics,T-Shirt,3,25026,Net Banking,Returned,Hyderabad,75078
+500955,17:06.6,25510,Customer_25510,Female,59,Sports,Mobile,1,11615,Credit Card,Delivered,Delhi,11615
+500956,25:52.2,43998,Customer_43998,Female,33,Fashion,Lipstick,4,43200,Net Banking,Delivered,Mumbai,172800
+500957,34:37.8,25723,Customer_25723,Female,34,Sports,Lipstick,3,9196,Credit Card,Delivered,Mumbai,27588
+500958,43:23.4,40585,Customer_40585,Female,58,Beauty,Laptop,3,46212,Debit Card,Delivered,Pune,138636
+500959,52:09.0,48644,Customer_48644,Female,27,Electronics,Mobile,1,12907,Net Banking,Delivered,Pune,12907
+500960,00:54.6,42411,Customer_42411,Male,31,Beauty,Watch,1,27551,UPI,Delivered,Pune,27551
+500961,09:40.2,13826,Customer_13826,Female,38,Beauty,Watch,1,25599,Credit Card,Cancelled,Gurgaon,25599
+500962,18:25.8,11941,Customer_11941,Male,18,Beauty,Headphones,3,36714,Net Banking,Cancelled,Mumbai,110142
+500963,27:11.4,42751,Customer_42751,Male,49,Beauty,T-Shirt,1,51541,Credit Card,Delivered,Chennai,51541
+500964,35:57.0,26695,Customer_26695,Male,55,Sports,Laptop,4,31202,Net Banking,Returned,Delhi,124808
+500965,44:42.6,30182,Customer_30182,Female,44,Home & Kitchen,Mixer,1,24084,Credit Card,Returned,Bangalore,24084
+500966,53:28.2,12432,Customer_12432,Male,25,Home & Kitchen,Laptop,4,15460,Debit Card,Delivered,Noida,61840
+500967,02:13.8,13048,Customer_13048,Male,64,Sports,Watch,3,382,UPI,Delivered,Noida,1146
+500968,10:59.4,45320,Customer_45320,Male,27,Beauty,Watch,2,66929,UPI,Delivered,Pune,133858
+500969,19:45.0,31195,Customer_31195,Male,54,Fashion,Mobile,1,10576,Net Banking,Delivered,Chennai,10576
+500970,28:30.6,37738,Customer_37738,Male,49,Fashion,Laptop,1,17473,Debit Card,Delivered,Hyderabad,17473
+500971,37:16.2,13864,Customer_13864,Female,53,Electronics,Shoes,4,4978,Net Banking,Delivered,Mumbai,19912
+500972,46:01.9,29214,Customer_29214,Male,64,Beauty,Mobile,2,65324,UPI,Delivered,Chennai,130648
+500973,54:47.5,42767,Customer_42767,Male,24,Beauty,Mobile,1,66600,Credit Card,Delivered,Gurgaon,66600
+500974,03:33.1,35995,Customer_35995,Male,49,Beauty,T-Shirt,2,53495,Net Banking,Cancelled,Gurgaon,106990
+500975,12:18.7,33344,Customer_33344,Female,26,Home & Kitchen,Mixer,2,35163,Debit Card,Delivered,Mumbai,70326
+500976,21:04.3,48341,Customer_48341,Female,25,Home & Kitchen,Laptop,2,67828,Debit Card,Delivered,Pune,135656
+500977,29:49.9,46780,Customer_46780,Male,59,Sports,T-Shirt,2,65596,UPI,Delivered,Hyderabad,131192
+500978,38:35.5,20382,Customer_20382,Female,22,Home & Kitchen,Lipstick,2,66078,UPI,Delivered,Chennai,132156
+500979,47:21.1,33559,Customer_33559,Female,26,Beauty,Headphones,4,17852,Debit Card,Delivered,Noida,71408
+500980,56:06.7,28756,Customer_28756,Male,28,Electronics,T-Shirt,2,8866,Cash on Delivery,Cancelled,Noida,17732
+500981,04:52.3,13461,Customer_13461,Female,49,Electronics,Mobile,4,60411,Debit Card,Delivered,Mumbai,241644
+500982,13:37.9,27565,Customer_27565,Female,26,Sports,Laptop,3,29309,Debit Card,Delivered,Noida,87927
+500983,22:23.5,16180,Customer_16180,Male,45,Fashion,Lipstick,4,36814,Credit Card,Cancelled,Mumbai,147256
+500984,31:09.1,37622,Customer_37622,Female,52,Fashion,Shoes,2,32175,UPI,Delivered,Gurgaon,64350
+500985,39:54.7,32887,Customer_32887,Female,53,Sports,Headphones,3,46516,Net Banking,Delivered,Pune,139548
+500986,48:40.3,48094,Customer_48094,Male,38,Fashion,Mixer,2,47524,UPI,Delivered,Mumbai,95048
+500987,57:25.9,38751,Customer_38751,Female,60,Fashion,Lipstick,4,54155,Credit Card,Delivered,Chennai,216620
+500988,06:11.5,31098,Customer_31098,Male,40,Sports,Headphones,1,2772,Debit Card,Delivered,Hyderabad,2772
+500989,14:57.1,44012,Customer_44012,Male,27,Beauty,Laptop,4,51530,Debit Card,Delivered,Chennai,206120
+500990,23:42.7,43617,Customer_43617,Female,60,Beauty,Lipstick,3,65990,Credit Card,Delivered,Hyderabad,197970
+500991,32:28.3,24485,Customer_24485,Female,55,Beauty,Mobile,4,65314,Cash on Delivery,Delivered,Gurgaon,261256
+500992,41:13.9,25512,Customer_25512,Female,35,Beauty,Lipstick,2,3066,Credit Card,Delivered,Pune,6132
+500993,49:59.5,33360,Customer_33360,Female,29,Fashion,T-Shirt,2,25242,UPI,Cancelled,Bangalore,50484
+500994,58:45.1,20724,Customer_20724,Male,39,Home & Kitchen,T-Shirt,2,62578,Cash on Delivery,Delivered,Bangalore,125156
+500995,07:30.8,29144,Customer_29144,Female,36,Electronics,Headphones,1,4261,Cash on Delivery,Delivered,Noida,4261
+500996,16:16.4,28695,Customer_28695,Male,23,Beauty,Watch,4,7109,UPI,Cancelled,Bangalore,28436
+500997,25:02.0,36561,Customer_36561,Male,64,Home & Kitchen,Lipstick,1,57760,Debit Card,Delivered,Pune,57760
+500998,33:47.6,33603,Customer_33603,Female,50,Home & Kitchen,Laptop,2,20465,Debit Card,Delivered,Chennai,40930
+500999,42:33.2,36715,Customer_36715,Male,37,Sports,Headphones,1,60163,UPI,Delivered,Bangalore,60163
